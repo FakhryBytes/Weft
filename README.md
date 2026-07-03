@@ -9,7 +9,7 @@ no account, no server, no tracking.
 ## Get it on your phone
 
 The fastest way to install this as a real Android app icon isto do this:
-1. Open the folloiwnng link `https://fakhrybytes.github.io/Weft/` URL on your phone
+1. Open the following link `https://fakhrybytes.github.io/Weft/` URL on your phone
    in Chrome, then **⋮ menu → Add to Home screen** (or use the Install
    button under Settings once loaded).
 2. After that first load, it works completely offline — the service
