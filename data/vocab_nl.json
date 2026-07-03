@@ -1,0 +1,1146 @@
+{
+ "lang": "nl",
+ "label": "Nederlands",
+ "items": [
+  {
+   "id": "nl-0001",
+   "term": "Hallo",
+   "en": "Hello",
+   "ar": "مرحباً",
+   "cat": "greetings",
+   "ex": "Hallo, hoe gaat het?",
+   "ex_en": "Hello, how are you?",
+   "ex_ar": "مرحباً، كيف حالك؟"
+  },
+  {
+   "id": "nl-0002",
+   "term": "Goedemorgen",
+   "en": "Good morning",
+   "ar": "صباح الخير",
+   "cat": "greetings",
+   "ex": "Goedemorgen! Heb je goed geslapen?",
+   "ex_en": "Good morning! Did you sleep well?",
+   "ex_ar": "صباح الخير! هل نمت جيداً؟"
+  },
+  {
+   "id": "nl-0003",
+   "term": "Goedenavond",
+   "en": "Good evening",
+   "ar": "مساء الخير",
+   "cat": "greetings",
+   "ex": "Goedenavond, welkom!",
+   "ex_en": "Good evening, welcome!",
+   "ex_ar": "مساء الخير، أهلاً بك!"
+  },
+  {
+   "id": "nl-0004",
+   "term": "Tot ziens",
+   "en": "Goodbye",
+   "ar": "مع السلامة",
+   "cat": "greetings",
+   "ex": "Tot ziens, tot morgen!",
+   "ex_en": "Goodbye, see you tomorrow!",
+   "ex_ar": "مع السلامة، أراك غداً!"
+  },
+  {
+   "id": "nl-0005",
+   "term": "Doei",
+   "en": "Bye",
+   "ar": "وداعاً",
+   "cat": "greetings",
+   "ex": "Doei, fijne dag nog!",
+   "ex_en": "Bye, have a nice day!",
+   "ex_ar": "وداعاً، أتمنى لك يوماً جميلاً!"
+  },
+  {
+   "id": "nl-0006",
+   "term": "Alsjeblieft",
+   "en": "Please / Here you are",
+   "ar": "من فضلك / تفضل",
+   "cat": "greetings",
+   "ex": "Een koffie, alsjeblieft.",
+   "ex_en": "A coffee, please.",
+   "ex_ar": "قهوة من فضلك."
+  },
+  {
+   "id": "nl-0007",
+   "term": "Dank je wel",
+   "en": "Thank you",
+   "ar": "شكراً",
+   "cat": "greetings",
+   "ex": "Dank je wel voor je hulp.",
+   "ex_en": "Thank you for your help.",
+   "ex_ar": "شكراً على مساعدتك."
+  },
+  {
+   "id": "nl-0008",
+   "term": "Sorry",
+   "en": "Sorry / Excuse me",
+   "ar": "آسف / المعذرة",
+   "cat": "greetings",
+   "ex": "Sorry, waar is het station?",
+   "ex_en": "Excuse me, where is the station?",
+   "ex_ar": "المعذرة، أين المحطة؟"
+  },
+  {
+   "id": "nl-0009",
+   "term": "Hoe heet je?",
+   "en": "What's your name?",
+   "ar": "ما اسمك؟",
+   "cat": "greetings",
+   "ex": "Hoe heet je? – Ik heet Ahmed.",
+   "ex_en": "What's your name? – My name is Ahmed.",
+   "ex_ar": "ما اسمك؟ - اسمي أحمد."
+  },
+  {
+   "id": "nl-0010",
+   "term": "Ik heet",
+   "en": "My name is",
+   "ar": "اسمي",
+   "cat": "greetings",
+   "ex": "Ik heet Ahmed en ik kom uit Egypte.",
+   "ex_en": "My name is Ahmed and I come from Egypt.",
+   "ex_ar": "اسمي أحمد وأنا من مصر."
+  },
+  {
+   "id": "nl-0011",
+   "term": "ik",
+   "en": "I",
+   "ar": "أنا",
+   "cat": "pronouns",
+   "ex": "Ik leer Nederlands.",
+   "ex_en": "I am learning Dutch.",
+   "ex_ar": "أنا أتعلم الهولندية."
+  },
+  {
+   "id": "nl-0012",
+   "term": "jij/je",
+   "en": "you (informal)",
+   "ar": "أنت",
+   "cat": "pronouns",
+   "ex": "Waar kom jij vandaan?",
+   "ex_en": "Where do you come from?",
+   "ex_ar": "من أين أنت؟"
+  },
+  {
+   "id": "nl-0013",
+   "term": "hij/zij",
+   "en": "he/she",
+   "ar": "هو/هي",
+   "cat": "pronouns",
+   "ex": "Zij woont in Amsterdam.",
+   "ex_en": "She lives in Amsterdam.",
+   "ex_ar": "هي تسكن في أمستردام."
+  },
+  {
+   "id": "nl-0014",
+   "term": "wij/we",
+   "en": "we",
+   "ar": "نحن",
+   "cat": "pronouns",
+   "ex": "Wij spreken Nederlands.",
+   "ex_en": "We speak Dutch.",
+   "ex_ar": "نحن نتحدث الهولندية."
+  },
+  {
+   "id": "nl-0015",
+   "term": "jullie",
+   "en": "you (plural)",
+   "ar": "أنتم",
+   "cat": "pronouns",
+   "ex": "Waar komen jullie vandaan?",
+   "ex_en": "Where do you (pl.) come from?",
+   "ex_ar": "من أين أنتم؟"
+  },
+  {
+   "id": "nl-0016",
+   "term": "zij/ze",
+   "en": "they",
+   "ar": "هم",
+   "cat": "pronouns",
+   "ex": "Zij spreken goed Engels.",
+   "ex_en": "They speak good English.",
+   "ex_ar": "هم يتحدثون الإنجليزية بشكل جيد."
+  },
+  {
+   "id": "nl-0017",
+   "term": "zijn",
+   "en": "to be",
+   "ar": "يكون",
+   "cat": "verbs",
+   "ex": "Ik ben moe.",
+   "ex_en": "I am tired.",
+   "ex_ar": "أنا متعب."
+  },
+  {
+   "id": "nl-0018",
+   "term": "hebben",
+   "en": "to have",
+   "ar": "يملك",
+   "cat": "verbs",
+   "ex": "Ik heb een broer.",
+   "ex_en": "I have a brother.",
+   "ex_ar": "لدي أخ."
+  },
+  {
+   "id": "nl-0019",
+   "term": "komen",
+   "en": "to come",
+   "ar": "يأتي",
+   "cat": "verbs",
+   "ex": "Ik kom uit Caïro.",
+   "ex_en": "I come from Cairo.",
+   "ex_ar": "أنا من القاهرة."
+  },
+  {
+   "id": "nl-0020",
+   "term": "wonen",
+   "en": "to live/reside",
+   "ar": "يسكن",
+   "cat": "verbs",
+   "ex": "Waar woon je?",
+   "ex_en": "Where do you live?",
+   "ex_ar": "أين تسكن؟"
+  },
+  {
+   "id": "nl-0021",
+   "term": "spreken",
+   "en": "to speak",
+   "ar": "يتحدث",
+   "cat": "verbs",
+   "ex": "Spreek je Engels?",
+   "ex_en": "Do you speak English?",
+   "ex_ar": "هل تتحدث الإنجليزية؟"
+  },
+  {
+   "id": "nl-0022",
+   "term": "leren",
+   "en": "to learn",
+   "ar": "يتعلم",
+   "cat": "verbs",
+   "ex": "Ik leer elke dag.",
+   "ex_en": "I learn every day.",
+   "ex_ar": "أتعلم كل يوم."
+  },
+  {
+   "id": "nl-0023",
+   "term": "werken",
+   "en": "to work",
+   "ar": "يعمل",
+   "cat": "verbs",
+   "ex": "Hij werkt op kantoor.",
+   "ex_en": "He works in the office.",
+   "ex_ar": "هو يعمل في المكتب."
+  },
+  {
+   "id": "nl-0024",
+   "term": "gaan",
+   "en": "to go",
+   "ar": "يذهب",
+   "cat": "verbs",
+   "ex": "Wij gaan naar huis.",
+   "ex_en": "We are going home.",
+   "ex_ar": "نحن ذاهبون إلى المنزل."
+  },
+  {
+   "id": "nl-0025",
+   "term": "eten",
+   "en": "to eat",
+   "ar": "يأكل",
+   "cat": "verbs",
+   "ex": "Wat eet je graag?",
+   "ex_en": "What do you like to eat?",
+   "ex_ar": "ماذا تحب أن تأكل؟"
+  },
+  {
+   "id": "nl-0026",
+   "term": "drinken",
+   "en": "to drink",
+   "ar": "يشرب",
+   "cat": "verbs",
+   "ex": "Ik drink graag thee.",
+   "ex_en": "I like to drink tea.",
+   "ex_ar": "أحب أن أشرب الشاي."
+  },
+  {
+   "id": "nl-0027",
+   "term": "doen",
+   "en": "to do",
+   "ar": "يفعل",
+   "cat": "verbs",
+   "ex": "Wat doe je vandaag?",
+   "ex_en": "What are you doing today?",
+   "ex_ar": "ماذا تفعل اليوم؟"
+  },
+  {
+   "id": "nl-0028",
+   "term": "nodig hebben",
+   "en": "to need",
+   "ar": "يحتاج",
+   "cat": "verbs",
+   "ex": "Ik heb hulp nodig.",
+   "ex_en": "I need help.",
+   "ex_ar": "أحتاج إلى مساعدة."
+  },
+  {
+   "id": "nl-0029",
+   "term": "houden van",
+   "en": "to like/love",
+   "ar": "يحب",
+   "cat": "verbs",
+   "ex": "Ik houd van muziek.",
+   "ex_en": "I like music.",
+   "ex_ar": "أحب الموسيقى."
+  },
+  {
+   "id": "nl-0030",
+   "term": "begrijpen",
+   "en": "to understand",
+   "ar": "يفهم",
+   "cat": "verbs",
+   "ex": "Begrijp je mij?",
+   "ex_en": "Do you understand me?",
+   "ex_ar": "هل تفهمني؟"
+  },
+  {
+   "id": "nl-0031",
+   "term": "heten",
+   "en": "to be called",
+   "ar": "يُدعى",
+   "cat": "verbs",
+   "ex": "Hoe heet dit in het Nederlands?",
+   "ex_en": "What is this called in Dutch?",
+   "ex_ar": "ماذا يسمى هذا بالهولندية؟"
+  },
+  {
+   "id": "nl-0032",
+   "term": "een",
+   "en": "one",
+   "ar": "واحد",
+   "cat": "numbers",
+   "ex": "Ik heb er een.",
+   "ex_en": "I have one.",
+   "ex_ar": "لدي واحد."
+  },
+  {
+   "id": "nl-0033",
+   "term": "twee",
+   "en": "two",
+   "ar": "اثنان",
+   "cat": "numbers",
+   "ex": "Twee koffie, alsjeblieft.",
+   "ex_en": "Two coffees, please.",
+   "ex_ar": "قهوتان من فضلك."
+  },
+  {
+   "id": "nl-0034",
+   "term": "drie",
+   "en": "three",
+   "ar": "ثلاثة",
+   "cat": "numbers",
+   "ex": "Wij zijn met drie personen.",
+   "ex_en": "We are three people.",
+   "ex_ar": "نحن ثلاثة أشخاص."
+  },
+  {
+   "id": "nl-0035",
+   "term": "vier",
+   "en": "four",
+   "ar": "أربعة",
+   "cat": "numbers",
+   "ex": "Het is vier uur.",
+   "ex_en": "It is four o'clock.",
+   "ex_ar": "الساعة الرابعة."
+  },
+  {
+   "id": "nl-0036",
+   "term": "vijf",
+   "en": "five",
+   "ar": "خمسة",
+   "cat": "numbers",
+   "ex": "Vijf minuten, alsjeblieft.",
+   "ex_en": "Five minutes, please.",
+   "ex_ar": "خمس دقائق من فضلك."
+  },
+  {
+   "id": "nl-0037",
+   "term": "zes",
+   "en": "six",
+   "ar": "ستة",
+   "cat": "numbers",
+   "ex": "De cursus begint om zes uur.",
+   "ex_en": "The course starts at six.",
+   "ex_ar": "تبدأ الدورة في السادسة."
+  },
+  {
+   "id": "nl-0038",
+   "term": "zeven",
+   "en": "seven",
+   "ar": "سبعة",
+   "cat": "numbers",
+   "ex": "Ik sta om zeven uur op.",
+   "ex_en": "I get up at seven.",
+   "ex_ar": "أستيقظ في السابعة."
+  },
+  {
+   "id": "nl-0039",
+   "term": "acht",
+   "en": "eight",
+   "ar": "ثمانية",
+   "cat": "numbers",
+   "ex": "We spreken om acht uur af.",
+   "ex_en": "We meet at eight.",
+   "ex_ar": "نلتقي في الثامنة."
+  },
+  {
+   "id": "nl-0040",
+   "term": "negen",
+   "en": "nine",
+   "ar": "تسعة",
+   "cat": "numbers",
+   "ex": "De winkel gaat om negen open.",
+   "ex_en": "The shop opens at nine.",
+   "ex_ar": "يفتح المتجر في التاسعة."
+  },
+  {
+   "id": "nl-0041",
+   "term": "tien",
+   "en": "ten",
+   "ar": "عشرة",
+   "cat": "numbers",
+   "ex": "Tien euro, alsjeblieft.",
+   "ex_en": "Ten euros, please.",
+   "ex_ar": "عشرة يورو من فضلك."
+  },
+  {
+   "id": "nl-0042",
+   "term": "twintig",
+   "en": "twenty",
+   "ar": "عشرون",
+   "cat": "numbers",
+   "ex": "Ik ben twintig jaar oud.",
+   "ex_en": "I am twenty years old.",
+   "ex_ar": "عمري عشرون عاماً."
+  },
+  {
+   "id": "nl-0043",
+   "term": "honderd",
+   "en": "hundred",
+   "ar": "مئة",
+   "cat": "numbers",
+   "ex": "Dat kost honderd euro.",
+   "ex_en": "That costs a hundred euros.",
+   "ex_ar": "يكلف هذا مئة يورو."
+  },
+  {
+   "id": "nl-0044",
+   "term": "de familie",
+   "en": "the family",
+   "ar": "العائلة",
+   "cat": "family",
+   "ex": "Mijn familie is groot.",
+   "ex_en": "My family is big.",
+   "ex_ar": "عائلتي كبيرة."
+  },
+  {
+   "id": "nl-0045",
+   "term": "de vader",
+   "en": "the father",
+   "ar": "الأب",
+   "cat": "family",
+   "ex": "Mijn vader werkt veel.",
+   "ex_en": "My father works a lot.",
+   "ex_ar": "والدي يعمل كثيراً."
+  },
+  {
+   "id": "nl-0046",
+   "term": "de moeder",
+   "en": "the mother",
+   "ar": "الأم",
+   "cat": "family",
+   "ex": "Mijn moeder kookt graag.",
+   "ex_en": "My mother likes to cook.",
+   "ex_ar": "أمي تحب الطبخ."
+  },
+  {
+   "id": "nl-0047",
+   "term": "de broer",
+   "en": "the brother",
+   "ar": "الأخ",
+   "cat": "family",
+   "ex": "Ik heb één broer.",
+   "ex_en": "I have one brother.",
+   "ex_ar": "لدي أخ واحد."
+  },
+  {
+   "id": "nl-0048",
+   "term": "de zus",
+   "en": "the sister",
+   "ar": "الأخت",
+   "cat": "family",
+   "ex": "Mijn zus studeert.",
+   "ex_en": "My sister is studying.",
+   "ex_ar": "أختي تدرس."
+  },
+  {
+   "id": "nl-0049",
+   "term": "het kind",
+   "en": "the child",
+   "ar": "الطفل",
+   "cat": "family",
+   "ex": "Het kind speelt buiten.",
+   "ex_en": "The child is playing outside.",
+   "ex_ar": "الطفل يلعب بالخارج."
+  },
+  {
+   "id": "nl-0050",
+   "term": "de vriend",
+   "en": "the friend (m.)",
+   "ar": "الصديق",
+   "cat": "family",
+   "ex": "Hij is mijn beste vriend.",
+   "ex_en": "He is my best friend.",
+   "ex_ar": "هو أفضل صديق لي."
+  },
+  {
+   "id": "nl-0051",
+   "term": "het brood",
+   "en": "the bread",
+   "ar": "الخبز",
+   "cat": "food",
+   "ex": "Ik koop vers brood.",
+   "ex_en": "I buy fresh bread.",
+   "ex_ar": "أشتري خبزاً طازجاً."
+  },
+  {
+   "id": "nl-0052",
+   "term": "het water",
+   "en": "the water",
+   "ar": "الماء",
+   "cat": "food",
+   "ex": "Een glas water, alsjeblieft.",
+   "ex_en": "A glass of water, please.",
+   "ex_ar": "كوب ماء من فضلك."
+  },
+  {
+   "id": "nl-0053",
+   "term": "de koffie",
+   "en": "the coffee",
+   "ar": "القهوة",
+   "cat": "food",
+   "ex": "Ik drink elke ochtend koffie.",
+   "ex_en": "I drink coffee every morning.",
+   "ex_ar": "أشرب القهوة كل صباح."
+  },
+  {
+   "id": "nl-0054",
+   "term": "de thee",
+   "en": "the tea",
+   "ar": "الشاي",
+   "cat": "food",
+   "ex": "Wil je thee of koffie?",
+   "ex_en": "Would you like tea or coffee?",
+   "ex_ar": "هل تريد شاياً أم قهوة؟"
+  },
+  {
+   "id": "nl-0055",
+   "term": "het fruit",
+   "en": "the fruit",
+   "ar": "الفاكهة",
+   "cat": "food",
+   "ex": "Ik eet graag fruit.",
+   "ex_en": "I like eating fruit.",
+   "ex_ar": "أحب أكل الفاكهة."
+  },
+  {
+   "id": "nl-0056",
+   "term": "de groente",
+   "en": "the vegetables",
+   "ar": "الخضروات",
+   "cat": "food",
+   "ex": "Groente is gezond.",
+   "ex_en": "Vegetables are healthy.",
+   "ex_ar": "الخضروات مفيدة للصحة."
+  },
+  {
+   "id": "nl-0057",
+   "term": "het vlees",
+   "en": "the meat",
+   "ar": "اللحم",
+   "cat": "food",
+   "ex": "Ik eet geen vlees.",
+   "ex_en": "I don't eat meat.",
+   "ex_ar": "لا آكل اللحم."
+  },
+  {
+   "id": "nl-0058",
+   "term": "de rijst",
+   "en": "the rice",
+   "ar": "الأرز",
+   "cat": "food",
+   "ex": "Rijst met groente smaakt goed.",
+   "ex_en": "Rice with vegetables tastes good.",
+   "ex_ar": "الأرز مع الخضار طعمه جيد."
+  },
+  {
+   "id": "nl-0059",
+   "term": "het restaurant",
+   "en": "the restaurant",
+   "ar": "المطعم",
+   "cat": "food",
+   "ex": "Wij eten in het restaurant.",
+   "ex_en": "We are eating at the restaurant.",
+   "ex_ar": "نأكل في المطعم."
+  },
+  {
+   "id": "nl-0060",
+   "term": "vandaag",
+   "en": "today",
+   "ar": "اليوم",
+   "cat": "time",
+   "ex": "Wat doe je vandaag?",
+   "ex_en": "What are you doing today?",
+   "ex_ar": "ماذا تفعل اليوم؟"
+  },
+  {
+   "id": "nl-0061",
+   "term": "morgen",
+   "en": "tomorrow",
+   "ar": "غداً",
+   "cat": "time",
+   "ex": "Tot morgen!",
+   "ex_en": "See you tomorrow!",
+   "ex_ar": "أراك غداً!"
+  },
+  {
+   "id": "nl-0062",
+   "term": "gisteren",
+   "en": "yesterday",
+   "ar": "أمس",
+   "cat": "time",
+   "ex": "Gisteren was ik moe.",
+   "ex_en": "Yesterday I was tired.",
+   "ex_ar": "بالأمس كنت متعباً."
+  },
+  {
+   "id": "nl-0063",
+   "term": "de week",
+   "en": "the week",
+   "ar": "الأسبوع",
+   "cat": "time",
+   "ex": "Volgende week ga ik weg.",
+   "ex_en": "Next week I'm going away.",
+   "ex_ar": "الأسبوع القادم سأسافر."
+  },
+  {
+   "id": "nl-0064",
+   "term": "maandag",
+   "en": "Monday",
+   "ar": "الاثنين",
+   "cat": "time",
+   "ex": "Op maandag begint het werk.",
+   "ex_en": "Work starts on Monday.",
+   "ex_ar": "يبدأ العمل يوم الاثنين."
+  },
+  {
+   "id": "nl-0065",
+   "term": "zondag",
+   "en": "Sunday",
+   "ar": "الأحد",
+   "cat": "time",
+   "ex": "Zondag is mijn vrije dag.",
+   "ex_en": "Sunday is my day off.",
+   "ex_ar": "الأحد هو يوم إجازتي."
+  },
+  {
+   "id": "nl-0066",
+   "term": "de tijd",
+   "en": "the time",
+   "ar": "الوقت",
+   "cat": "time",
+   "ex": "Hoe laat is het?",
+   "ex_en": "What time is it?",
+   "ex_ar": "كم الساعة؟"
+  },
+  {
+   "id": "nl-0067",
+   "term": "de maand",
+   "en": "the month",
+   "ar": "الشهر",
+   "cat": "time",
+   "ex": "Deze maand is erg koud.",
+   "ex_en": "This month is very cold.",
+   "ex_ar": "هذا الشهر بارد جداً."
+  },
+  {
+   "id": "nl-0068",
+   "term": "het jaar",
+   "en": "the year",
+   "ar": "السنة",
+   "cat": "time",
+   "ex": "Dit jaar leer ik Nederlands.",
+   "ex_en": "This year I am learning Dutch.",
+   "ex_ar": "هذا العام أتعلم الهولندية."
+  },
+  {
+   "id": "nl-0069",
+   "term": "de stad",
+   "en": "the city",
+   "ar": "المدينة",
+   "cat": "places",
+   "ex": "Amsterdam is een grote stad.",
+   "ex_en": "Amsterdam is a big city.",
+   "ex_ar": "أمستردام مدينة كبيرة."
+  },
+  {
+   "id": "nl-0070",
+   "term": "het huis",
+   "en": "the house",
+   "ar": "المنزل",
+   "cat": "places",
+   "ex": "Het huis is nieuw.",
+   "ex_en": "The house is new.",
+   "ex_ar": "المنزل جديد."
+  },
+  {
+   "id": "nl-0071",
+   "term": "de school",
+   "en": "the school",
+   "ar": "المدرسة",
+   "cat": "places",
+   "ex": "De kinderen gaan naar school.",
+   "ex_en": "The children go to school.",
+   "ex_ar": "الأطفال يذهبون إلى المدرسة."
+  },
+  {
+   "id": "nl-0072",
+   "term": "het station",
+   "en": "the train station",
+   "ar": "محطة القطار",
+   "cat": "places",
+   "ex": "Het station is ver weg.",
+   "ex_en": "The train station is far away.",
+   "ex_ar": "محطة القطار بعيدة."
+  },
+  {
+   "id": "nl-0073",
+   "term": "het vliegveld",
+   "en": "the airport",
+   "ar": "المطار",
+   "cat": "places",
+   "ex": "We rijden naar het vliegveld.",
+   "ex_en": "We are driving to the airport.",
+   "ex_ar": "نحن ذاهبون إلى المطار."
+  },
+  {
+   "id": "nl-0074",
+   "term": "de winkel",
+   "en": "the shop",
+   "ar": "المتجر",
+   "cat": "places",
+   "ex": "De winkel is gesloten.",
+   "ex_en": "The shop is closed.",
+   "ex_ar": "المتجر مغلق."
+  },
+  {
+   "id": "nl-0075",
+   "term": "de straat",
+   "en": "the street",
+   "ar": "الشارع",
+   "cat": "places",
+   "ex": "De straat is erg lang.",
+   "ex_en": "The street is very long.",
+   "ex_ar": "الشارع طويل جداً."
+  },
+  {
+   "id": "nl-0076",
+   "term": "goed",
+   "en": "good",
+   "ar": "جيد",
+   "cat": "adjectives",
+   "ex": "Dat is een goed idee.",
+   "ex_en": "That's a good idea.",
+   "ex_ar": "هذه فكرة جيدة."
+  },
+  {
+   "id": "nl-0077",
+   "term": "slecht",
+   "en": "bad",
+   "ar": "سيء",
+   "cat": "adjectives",
+   "ex": "Het weer is slecht.",
+   "ex_en": "The weather is bad.",
+   "ex_ar": "الطقس سيء."
+  },
+  {
+   "id": "nl-0078",
+   "term": "groot",
+   "en": "big",
+   "ar": "كبير",
+   "cat": "adjectives",
+   "ex": "Het huis is erg groot.",
+   "ex_en": "The house is very big.",
+   "ex_ar": "المنزل كبير جداً."
+  },
+  {
+   "id": "nl-0079",
+   "term": "klein",
+   "en": "small",
+   "ar": "صغير",
+   "cat": "adjectives",
+   "ex": "De flat is klein.",
+   "ex_en": "The apartment is small.",
+   "ex_ar": "الشقة صغيرة."
+  },
+  {
+   "id": "nl-0080",
+   "term": "nieuw",
+   "en": "new",
+   "ar": "جديد",
+   "cat": "adjectives",
+   "ex": "Ik heb een nieuwe auto.",
+   "ex_en": "I have a new car.",
+   "ex_ar": "لدي سيارة جديدة."
+  },
+  {
+   "id": "nl-0081",
+   "term": "oud",
+   "en": "old",
+   "ar": "قديم/عجوز",
+   "cat": "adjectives",
+   "ex": "Het gebouw is erg oud.",
+   "ex_en": "The building is very old.",
+   "ex_ar": "المبنى قديم جداً."
+  },
+  {
+   "id": "nl-0082",
+   "term": "snel",
+   "en": "fast",
+   "ar": "سريع",
+   "cat": "adjectives",
+   "ex": "De trein is snel.",
+   "ex_en": "The train is fast.",
+   "ex_ar": "القطار سريع."
+  },
+  {
+   "id": "nl-0083",
+   "term": "langzaam",
+   "en": "slow",
+   "ar": "بطيء",
+   "cat": "adjectives",
+   "ex": "Hij spreekt langzaam.",
+   "ex_en": "He speaks slowly.",
+   "ex_ar": "هو يتحدث ببطء."
+  },
+  {
+   "id": "nl-0084",
+   "term": "mooi",
+   "en": "beautiful",
+   "ar": "جميل",
+   "cat": "adjectives",
+   "ex": "De stad is mooi.",
+   "ex_en": "The city is beautiful.",
+   "ex_ar": "المدينة جميلة."
+  },
+  {
+   "id": "nl-0085",
+   "term": "duur",
+   "en": "expensive",
+   "ar": "غالي",
+   "cat": "adjectives",
+   "ex": "Het hotel is duur.",
+   "ex_en": "The hotel is expensive.",
+   "ex_ar": "الفندق غالي."
+  },
+  {
+   "id": "nl-0086",
+   "term": "goedkoop",
+   "en": "cheap",
+   "ar": "رخيص",
+   "cat": "adjectives",
+   "ex": "Dit restaurant is goedkoop.",
+   "ex_en": "This restaurant is cheap.",
+   "ex_ar": "هذا المطعم رخيص."
+  },
+  {
+   "id": "nl-0087",
+   "term": "moe",
+   "en": "tired",
+   "ar": "متعب",
+   "cat": "adjectives",
+   "ex": "Ik ben vandaag erg moe.",
+   "ex_en": "I am very tired today.",
+   "ex_ar": "أنا متعب جداً اليوم."
+  },
+  {
+   "id": "nl-0088",
+   "term": "wie",
+   "en": "who",
+   "ar": "من",
+   "cat": "questions",
+   "ex": "Wie ben jij?",
+   "ex_en": "Who are you?",
+   "ex_ar": "من أنت؟"
+  },
+  {
+   "id": "nl-0089",
+   "term": "wat",
+   "en": "what",
+   "ar": "ماذا",
+   "cat": "questions",
+   "ex": "Wat doe je?",
+   "ex_en": "What are you doing?",
+   "ex_ar": "ماذا تفعل؟"
+  },
+  {
+   "id": "nl-0090",
+   "term": "waar",
+   "en": "where",
+   "ar": "أين",
+   "cat": "questions",
+   "ex": "Waar woon je?",
+   "ex_en": "Where do you live?",
+   "ex_ar": "أين تسكن؟"
+  },
+  {
+   "id": "nl-0091",
+   "term": "wanneer",
+   "en": "when",
+   "ar": "متى",
+   "cat": "questions",
+   "ex": "Wanneer kom je aan?",
+   "ex_en": "When do you arrive?",
+   "ex_ar": "متى ستصل؟"
+  },
+  {
+   "id": "nl-0092",
+   "term": "waarom",
+   "en": "why",
+   "ar": "لماذا",
+   "cat": "questions",
+   "ex": "Waarom leer je Nederlands?",
+   "ex_en": "Why are you learning Dutch?",
+   "ex_ar": "لماذا تتعلم الهولندية؟"
+  },
+  {
+   "id": "nl-0093",
+   "term": "hoe",
+   "en": "how",
+   "ar": "كيف",
+   "cat": "questions",
+   "ex": "Hoe gaat het met je?",
+   "ex_en": "How are you?",
+   "ex_ar": "كيف حالك؟"
+  },
+  {
+   "id": "nl-0094",
+   "term": "hoeveel",
+   "en": "how much",
+   "ar": "كم",
+   "cat": "questions",
+   "ex": "Hoeveel kost dat?",
+   "ex_en": "How much does that cost?",
+   "ex_ar": "كم يكلف هذا؟"
+  },
+  {
+   "id": "nl-0095",
+   "term": "en",
+   "en": "and",
+   "ar": "و",
+   "cat": "connectors",
+   "ex": "Ik leer Duits en Nederlands.",
+   "ex_en": "I'm learning German and Dutch.",
+   "ex_ar": "أتعلم الألمانية والهولندية."
+  },
+  {
+   "id": "nl-0096",
+   "term": "maar",
+   "en": "but",
+   "ar": "لكن",
+   "cat": "connectors",
+   "ex": "Ik ben moe, maar blij.",
+   "ex_en": "I'm tired but happy.",
+   "ex_ar": "أنا متعب لكن سعيد."
+  },
+  {
+   "id": "nl-0097",
+   "term": "of",
+   "en": "or",
+   "ar": "أو",
+   "cat": "connectors",
+   "ex": "Koffie of thee?",
+   "ex_en": "Coffee or tea?",
+   "ex_ar": "قهوة أم شاي؟"
+  },
+  {
+   "id": "nl-0098",
+   "term": "omdat",
+   "en": "because",
+   "ar": "لأن",
+   "cat": "connectors",
+   "ex": "Ik leer, omdat ik het leuk vind.",
+   "ex_en": "I'm learning because I love it.",
+   "ex_ar": "أتعلم لأنني أحب ذلك."
+  },
+  {
+   "id": "nl-0099",
+   "term": "dan",
+   "en": "then",
+   "ar": "ثم",
+   "cat": "connectors",
+   "ex": "Eerst eet ik, dan werk ik.",
+   "ex_en": "First I eat, then I work.",
+   "ex_ar": "أولاً آكل، ثم أعمل."
+  },
+  {
+   "id": "nl-0100",
+   "term": "de dag",
+   "en": "the day",
+   "ar": "اليوم",
+   "cat": "daily",
+   "ex": "Ik had een lange dag.",
+   "ex_en": "I had a long day.",
+   "ex_ar": "كان لدي يوم طويل."
+  },
+  {
+   "id": "nl-0101",
+   "term": "het werk",
+   "en": "the work",
+   "ar": "العمل",
+   "cat": "daily",
+   "ex": "Het werk is leuk.",
+   "ex_en": "The work is fun.",
+   "ex_ar": "العمل ممتع."
+  },
+  {
+   "id": "nl-0102",
+   "term": "de telefoon",
+   "en": "the phone",
+   "ar": "الهاتف",
+   "cat": "daily",
+   "ex": "Mijn telefoon is nieuw.",
+   "ex_en": "My phone is new.",
+   "ex_ar": "هاتفي جديد."
+  },
+  {
+   "id": "nl-0103",
+   "term": "de auto",
+   "en": "the car",
+   "ar": "السيارة",
+   "cat": "daily",
+   "ex": "Hij rijdt een rode auto.",
+   "ex_en": "He drives a red car.",
+   "ex_ar": "هو يقود سيارة حمراء."
+  },
+  {
+   "id": "nl-0104",
+   "term": "de trein",
+   "en": "the train",
+   "ar": "القطار",
+   "cat": "daily",
+   "ex": "De trein vertrekt op tijd.",
+   "ex_en": "The train departs on time.",
+   "ex_ar": "القطار يغادر في الموعد."
+  },
+  {
+   "id": "nl-0105",
+   "term": "het geld",
+   "en": "the money",
+   "ar": "المال",
+   "cat": "daily",
+   "ex": "Ik heb weinig geld bij me.",
+   "ex_en": "I have little money with me.",
+   "ex_ar": "معي مال قليل."
+  },
+  {
+   "id": "nl-0106",
+   "term": "de tijd",
+   "en": "the time",
+   "ar": "الوقت",
+   "cat": "daily",
+   "ex": "Ik heb geen tijd.",
+   "ex_en": "I don't have time.",
+   "ex_ar": "ليس لدي وقت."
+  },
+  {
+   "id": "nl-0107",
+   "term": "de vraag",
+   "en": "the question",
+   "ar": "السؤال",
+   "cat": "daily",
+   "ex": "Ik heb een vraag.",
+   "ex_en": "I have a question.",
+   "ex_ar": "لدي سؤال."
+  },
+  {
+   "id": "nl-0108",
+   "term": "het antwoord",
+   "en": "the answer",
+   "ar": "الجواب",
+   "cat": "daily",
+   "ex": "Dat is het juiste antwoord.",
+   "ex_en": "That is the correct answer.",
+   "ex_ar": "هذه هي الإجابة الصحيحة."
+  },
+  {
+   "id": "nl-0109",
+   "term": "het boek",
+   "en": "the book",
+   "ar": "الكتاب",
+   "cat": "daily",
+   "ex": "Ik lees een interessant boek.",
+   "ex_en": "I'm reading an interesting book.",
+   "ex_ar": "أقرأ كتاباً ممتعاً."
+  },
+  {
+   "id": "nl-0110",
+   "term": "Hoe gaat het?",
+   "en": "How's it going?",
+   "ar": "كيف الحال؟",
+   "cat": "phrases",
+   "ex": "Hoi! Hoe gaat het vandaag?",
+   "ex_en": "Hi! How's it going today?",
+   "ex_ar": "مرحباً! كيف حالك اليوم؟"
+  },
+  {
+   "id": "nl-0111",
+   "term": "Geen probleem",
+   "en": "No problem",
+   "ar": "لا مشكلة",
+   "cat": "phrases",
+   "ex": "Dank je! – Geen probleem.",
+   "ex_en": "Thanks! – No problem.",
+   "ex_ar": "شكراً! - لا مشكلة."
+  },
+  {
+   "id": "nl-0112",
+   "term": "Ik weet het niet",
+   "en": "I don't know",
+   "ar": "لا أعرف",
+   "cat": "phrases",
+   "ex": "Ik weet niet waar dat is.",
+   "ex_en": "I don't know where that is.",
+   "ex_ar": "لا أعرف أين ذلك."
+  },
+  {
+   "id": "nl-0113",
+   "term": "Nog een keer, alsjeblieft",
+   "en": "One more time, please",
+   "ar": "مرة أخرى من فضلك",
+   "cat": "phrases",
+   "ex": "Kun je dat nog een keer zeggen?",
+   "ex_en": "Can you say that one more time?",
+   "ex_ar": "هل يمكنك قول ذلك مرة أخرى؟"
+  },
+  {
+   "id": "nl-0114",
+   "term": "Ik wil graag",
+   "en": "I would like",
+   "ar": "أرغب في",
+   "cat": "phrases",
+   "ex": "Ik wil graag een koffie.",
+   "ex_en": "I would like a coffee.",
+   "ex_ar": "أرغب في قهوة."
+  }
+ ]
+}

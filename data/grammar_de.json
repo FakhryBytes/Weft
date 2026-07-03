@@ -1,0 +1,377 @@
+{
+ "lang": "de",
+ "lessons": [
+  {
+   "id": "de-g1",
+   "title": "sein & haben – the two anchor verbs",
+   "level": "A1",
+   "expl_en": "sein (to be) and haben (to have) are irregular and used constantly. Learn them by heart first: ich bin/habe, du bist/hast, er-sie-es ist/hat, wir sind/haben, ihr seid/habt, sie/Sie sind/haben.",
+   "expl_ar": "sein و haben فعلان شاذان يُستخدمان باستمرار، احفظهما أولاً.",
+   "examples": [
+    "Ich bin müde, aber ich habe noch Energie.",
+    "Wir sind Freunde und haben viel gemeinsam."
+   ],
+   "quiz": [
+    {
+     "q": "'Du ___ sehr nett.' (sein)",
+     "options": [
+      "bist",
+      "bin",
+      "ist",
+      "sind"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "'Wir ___ zwei Kinder.' (haben)",
+     "options": [
+      "hat",
+      "habe",
+      "haben",
+      "habt"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Which verb is irregular in nearly every form?",
+     "options": [
+      "sein",
+      "lernen",
+      "machen",
+      "wohnen"
+     ],
+     "answer": 0,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-g2",
+   "title": "Gender & articles: der, die, das",
+   "level": "A1",
+   "expl_en": "Every German noun has a grammatical gender — masculine (der), feminine (die), or neuter (das) — and it's not predictable from meaning. Always learn a noun together with its article, e.g. 'die Tür', not just 'Tür'.",
+   "expl_ar": "لكل اسم ألماني جنس نحوي: مذكر (der)، مؤنث (die)، محايد (das). احفظ الاسم مع أداته دائماً.",
+   "examples": [
+    "der Tisch (the table, masc.)",
+    "die Lampe (the lamp, fem.)",
+    "das Fenster (the window, neut.)"
+   ],
+   "quiz": [
+    {
+     "q": "Which article goes with 'Buch' (book, neuter)?",
+     "options": [
+      "der",
+      "die",
+      "das",
+      "den"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Why is memorizing the article important?",
+     "options": [
+      "It changes pronunciation",
+      "It affects adjective and pronoun forms later",
+      "It's optional in speech",
+      "German has no articles"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'___ Frau' (the woman, feminine)",
+     "options": [
+      "Der",
+      "Die",
+      "Das",
+      "Dem"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-g3",
+   "title": "Present tense: regular verb endings",
+   "level": "A1",
+   "expl_en": "Regular verbs drop -en from the infinitive and add: -e (ich), -st (du), -t (er/sie/es), -en (wir), -t (ihr), -en (sie/Sie). E.g. lernen → ich lerne, du lernst, er lernt.",
+   "expl_ar": "الأفعال المنتظمة: احذف -en وأضف النهاية المناسبة للضمير.",
+   "examples": [
+    "ich lerne, du lernst, er lernt",
+    "wir arbeiten, ihr arbeitet, sie arbeiten"
+   ],
+   "quiz": [
+    {
+     "q": "'Er ___ Deutsch.' (lernen)",
+     "options": [
+      "lerne",
+      "lernst",
+      "lernt",
+      "lernen"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "'Ihr ___ viel.' (arbeiten)",
+     "options": [
+      "arbeite",
+      "arbeitest",
+      "arbeitet",
+      "arbeiten"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "The 'wir' and 'sie/Sie' endings are usually:",
+     "options": [
+      "different",
+      "the same as the infinitive (-en)",
+      "always -t",
+      "always -e"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-g4",
+   "title": "Word order: the verb-second rule",
+   "level": "A2",
+   "expl_en": "In a main clause the conjugated verb is always the second element — not necessarily the second word. If a sentence starts with something other than the subject (e.g. 'Heute'), the subject moves after the verb: 'Heute lerne ich Deutsch.'",
+   "expl_ar": "الفعل المصرَّف يأتي دائماً في الموضع الثاني في الجملة الرئيسية، حتى لو بدأت الجملة بشيء غير الفاعل.",
+   "examples": [
+    "Ich lerne heute Deutsch.",
+    "Heute lerne ich Deutsch.",
+    "Morgen fahre ich nach Berlin."
+   ],
+   "quiz": [
+    {
+     "q": "'___ Deutsch ich heute lerne' — is this correct order?",
+     "options": [
+      "Yes",
+      "No — the verb must be second"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Complete: 'Morgen ___ wir ins Kino.' (gehen)",
+     "options": [
+      "gehen wir",
+      "wir gehen",
+      "gehen",
+      "wir gehen wir"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "If a sentence starts with a time word, what happens to the subject?",
+     "options": [
+      "It disappears",
+      "It moves after the verb",
+      "It doubles",
+      "Nothing changes"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-g5",
+   "title": "Nominative vs Accusative case",
+   "level": "A2",
+   "expl_en": "German marks the object of the sentence with the accusative case, which changes 'der' → 'den' and 'ein' → 'einen' for masculine nouns only. 'Der Mann sieht den Hund' — the man (subject, nominative) sees the dog (object, accusative).",
+   "expl_ar": "المفعول به المباشر يُصرَّف في حالة النصب (Accusative)، وتتغيّر أداة التعريف للمذكر فقط من der إلى den.",
+   "examples": [
+    "Der Hund sieht den Mann.",
+    "Ich habe einen Bruder.",
+    "Sie kauft den Kaffee."
+   ],
+   "quiz": [
+    {
+     "q": "'Ich sehe ___ Mann.' (der → accusative)",
+     "options": [
+      "der",
+      "den",
+      "dem",
+      "des"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Which gender changes its article in the accusative?",
+     "options": [
+      "Feminine",
+      "Neuter",
+      "Masculine",
+      "All genders"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "'Er kauft ___ Auto.' (das, neuter — stays the same)",
+     "options": [
+      "das",
+      "den",
+      "dem",
+      "die"
+     ],
+     "answer": 0,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-g6",
+   "title": "Plurals: no single rule",
+   "level": "A2",
+   "expl_en": "German plurals don't follow one pattern — endings include -e, -er, -n/-en, -s, or no change, sometimes with an Umlaut (a→ä). Learn each noun's plural form individually, e.g. das Kind → die Kinder, die Frau → die Frauen.",
+   "expl_ar": "لا توجد قاعدة واحدة لصيغة الجمع في الألمانية؛ يجب حفظ صيغة الجمع مع كل اسم.",
+   "examples": [
+    "das Kind → die Kinder",
+    "die Frau → die Frauen",
+    "der Vater → die Väter"
+   ],
+   "quiz": [
+    {
+     "q": "Plural of 'das Buch' is:",
+     "options": [
+      "die Buche",
+      "die Bücher",
+      "die Buchs",
+      "die Buch"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Which of these can signal a plural change in German?",
+     "options": [
+      "Umlaut (ä, ö, ü)",
+      "Capitalization",
+      "Word order",
+      "Tone of voice"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "Best strategy for German plurals:",
+     "options": [
+      "Always add -s",
+      "Memorize with each noun",
+      "Add -er always",
+      "Ignore them"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-g7",
+   "title": "Negation: nicht vs kein",
+   "level": "A2",
+   "expl_en": "Use 'kein' to negate a noun that would otherwise take 'ein' or no article (kein Auto, keine Zeit). Use 'nicht' to negate verbs, adjectives, or specific nouns with 'der/die/das'.",
+   "expl_ar": "استخدم kein لنفي الاسم النكرة، واستخدم nicht لنفي الفعل أو الصفة أو الاسم المعرَّف.",
+   "examples": [
+    "Ich habe kein Auto.",
+    "Ich verstehe das nicht.",
+    "Das ist nicht mein Buch."
+   ],
+   "quiz": [
+    {
+     "q": "'Ich habe ___ Zeit.' (no time)",
+     "options": [
+      "nicht",
+      "keine",
+      "kein",
+      "keinen"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Das ist ___ richtig.' (not correct)",
+     "options": [
+      "kein",
+      "keine",
+      "nicht",
+      "keinen"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Use 'kein' to negate:",
+     "options": [
+      "Verbs",
+      "Adjectives",
+      "Indefinite nouns",
+      "Adverbs"
+     ],
+     "answer": 2,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-g8",
+   "title": "Modal verbs: können, müssen, wollen",
+   "level": "A2",
+   "expl_en": "Modal verbs (können=can, müssen=must, wollen=want to) send the main verb to the infinitive at the very end of the clause: 'Ich kann heute nicht kommen.' The modal itself is conjugated irregularly.",
+   "expl_ar": "الأفعال الشرطية ترسل الفعل الرئيسي بصيغة المصدر إلى نهاية الجملة.",
+   "examples": [
+    "Ich muss heute arbeiten.",
+    "Kannst du mir helfen?",
+    "Wir wollen Deutsch lernen."
+   ],
+   "quiz": [
+    {
+     "q": "'Ich ___ heute nicht kommen.' (can)",
+     "options": [
+      "kann",
+      "kannst",
+      "können",
+      "könnt"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "Where does the infinitive go with a modal verb?",
+     "options": [
+      "Right after the modal",
+      "At the very end of the clause",
+      "At the start",
+      "It disappears"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Wir ___ Deutsch lernen.' (want to)",
+     "options": [
+      "will",
+      "wollt",
+      "wollen",
+      "wollst"
+     ],
+     "answer": 2,
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

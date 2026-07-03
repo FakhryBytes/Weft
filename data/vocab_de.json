@@ -1,0 +1,1146 @@
+{
+ "lang": "de",
+ "label": "Deutsch",
+ "items": [
+  {
+   "id": "de-0001",
+   "term": "Hallo",
+   "en": "Hello",
+   "ar": "مرحباً",
+   "cat": "greetings",
+   "ex": "Hallo, wie geht's?",
+   "ex_en": "Hello, how are you?",
+   "ex_ar": "مرحباً، كيف حالك؟"
+  },
+  {
+   "id": "de-0002",
+   "term": "Guten Morgen",
+   "en": "Good morning",
+   "ar": "صباح الخير",
+   "cat": "greetings",
+   "ex": "Guten Morgen, hast du gut geschlafen?",
+   "ex_en": "Good morning, did you sleep well?",
+   "ex_ar": "صباح الخير، هل نمت جيداً؟"
+  },
+  {
+   "id": "de-0003",
+   "term": "Guten Abend",
+   "en": "Good evening",
+   "ar": "مساء الخير",
+   "cat": "greetings",
+   "ex": "Guten Abend, willkommen!",
+   "ex_en": "Good evening, welcome!",
+   "ex_ar": "مساء الخير، أهلاً بك!"
+  },
+  {
+   "id": "de-0004",
+   "term": "Auf Wiedersehen",
+   "en": "Goodbye",
+   "ar": "مع السلامة",
+   "cat": "greetings",
+   "ex": "Auf Wiedersehen, bis morgen!",
+   "ex_en": "Goodbye, see you tomorrow!",
+   "ex_ar": "مع السلامة، أراك غداً!"
+  },
+  {
+   "id": "de-0005",
+   "term": "Tschüss",
+   "en": "Bye",
+   "ar": "وداعاً",
+   "cat": "greetings",
+   "ex": "Tschüss, schönen Tag noch!",
+   "ex_en": "Bye, have a nice day!",
+   "ex_ar": "وداعاً، أتمنى لك يوماً جميلاً!"
+  },
+  {
+   "id": "de-0006",
+   "term": "Bitte",
+   "en": "Please / You're welcome",
+   "ar": "من فضلك / عفواً",
+   "cat": "greetings",
+   "ex": "Ein Kaffee, bitte.",
+   "ex_en": "A coffee, please.",
+   "ex_ar": "قهوة من فضلك."
+  },
+  {
+   "id": "de-0007",
+   "term": "Danke",
+   "en": "Thank you",
+   "ar": "شكراً",
+   "cat": "greetings",
+   "ex": "Danke für deine Hilfe.",
+   "ex_en": "Thanks for your help.",
+   "ex_ar": "شكراً على مساعدتك."
+  },
+  {
+   "id": "de-0008",
+   "term": "Entschuldigung",
+   "en": "Excuse me / Sorry",
+   "ar": "المعذرة / آسف",
+   "cat": "greetings",
+   "ex": "Entschuldigung, wo ist der Bahnhof?",
+   "ex_en": "Excuse me, where is the station?",
+   "ex_ar": "المعذرة، أين المحطة؟"
+  },
+  {
+   "id": "de-0009",
+   "term": "Wie heißt du?",
+   "en": "What's your name?",
+   "ar": "ما اسمك؟",
+   "cat": "greetings",
+   "ex": "Wie heißt du? – Ich heiße Ahmed.",
+   "ex_en": "What's your name? – My name is Ahmed.",
+   "ex_ar": "ما اسمك؟ - اسمي أحمد."
+  },
+  {
+   "id": "de-0010",
+   "term": "Ich heiße",
+   "en": "My name is",
+   "ar": "اسمي",
+   "cat": "greetings",
+   "ex": "Ich heiße Ahmed und komme aus Ägypten.",
+   "ex_en": "My name is Ahmed and I come from Egypt.",
+   "ex_ar": "اسمي أحمد وأنا من مصر."
+  },
+  {
+   "id": "de-0011",
+   "term": "ich",
+   "en": "I",
+   "ar": "أنا",
+   "cat": "pronouns",
+   "ex": "Ich lerne Deutsch.",
+   "ex_en": "I am learning German.",
+   "ex_ar": "أنا أتعلم الألمانية."
+  },
+  {
+   "id": "de-0012",
+   "term": "du",
+   "en": "you (informal)",
+   "ar": "أنت",
+   "cat": "pronouns",
+   "ex": "Woher kommst du?",
+   "ex_en": "Where are you from?",
+   "ex_ar": "من أين أنت؟"
+  },
+  {
+   "id": "de-0013",
+   "term": "er/sie/es",
+   "en": "he/she/it",
+   "ar": "هو/هي",
+   "cat": "pronouns",
+   "ex": "Er wohnt in Berlin.",
+   "ex_en": "He lives in Berlin.",
+   "ex_ar": "هو يسكن في برلين."
+  },
+  {
+   "id": "de-0014",
+   "term": "wir",
+   "en": "we",
+   "ar": "نحن",
+   "cat": "pronouns",
+   "ex": "Wir sprechen Deutsch.",
+   "ex_en": "We speak German.",
+   "ex_ar": "نحن نتحدث الألمانية."
+  },
+  {
+   "id": "de-0015",
+   "term": "ihr",
+   "en": "you (plural)",
+   "ar": "أنتم",
+   "cat": "pronouns",
+   "ex": "Woher kommt ihr?",
+   "ex_en": "Where do you (pl.) come from?",
+   "ex_ar": "من أين أنتم؟"
+  },
+  {
+   "id": "de-0016",
+   "term": "sie/Sie",
+   "en": "they / you (formal)",
+   "ar": "هم / حضرتك",
+   "cat": "pronouns",
+   "ex": "Sie sprechen sehr gut Deutsch.",
+   "ex_en": "You speak very good German.",
+   "ex_ar": "أنت تتحدث الألمانية بشكل جيد جداً."
+  },
+  {
+   "id": "de-0017",
+   "term": "sein",
+   "en": "to be",
+   "ar": "يكون",
+   "cat": "verbs",
+   "ex": "Ich bin müde.",
+   "ex_en": "I am tired.",
+   "ex_ar": "أنا متعب."
+  },
+  {
+   "id": "de-0018",
+   "term": "haben",
+   "en": "to have",
+   "ar": "يملك",
+   "cat": "verbs",
+   "ex": "Ich habe einen Bruder.",
+   "ex_en": "I have a brother.",
+   "ex_ar": "لدي أخ."
+  },
+  {
+   "id": "de-0019",
+   "term": "kommen",
+   "en": "to come",
+   "ar": "يأتي",
+   "cat": "verbs",
+   "ex": "Ich komme aus Kairo.",
+   "ex_en": "I come from Cairo.",
+   "ex_ar": "أنا من القاهرة."
+  },
+  {
+   "id": "de-0020",
+   "term": "wohnen",
+   "en": "to live/reside",
+   "ar": "يسكن",
+   "cat": "verbs",
+   "ex": "Wo wohnst du?",
+   "ex_en": "Where do you live?",
+   "ex_ar": "أين تسكن؟"
+  },
+  {
+   "id": "de-0021",
+   "term": "sprechen",
+   "en": "to speak",
+   "ar": "يتحدث",
+   "cat": "verbs",
+   "ex": "Sprichst du Englisch?",
+   "ex_en": "Do you speak English?",
+   "ex_ar": "هل تتحدث الإنجليزية؟"
+  },
+  {
+   "id": "de-0022",
+   "term": "lernen",
+   "en": "to learn",
+   "ar": "يتعلم",
+   "cat": "verbs",
+   "ex": "Ich lerne jeden Tag.",
+   "ex_en": "I learn every day.",
+   "ex_ar": "أتعلم كل يوم."
+  },
+  {
+   "id": "de-0023",
+   "term": "arbeiten",
+   "en": "to work",
+   "ar": "يعمل",
+   "cat": "verbs",
+   "ex": "Er arbeitet im Büro.",
+   "ex_en": "He works in the office.",
+   "ex_ar": "هو يعمل في المكتب."
+  },
+  {
+   "id": "de-0024",
+   "term": "gehen",
+   "en": "to go",
+   "ar": "يذهب",
+   "cat": "verbs",
+   "ex": "Wir gehen nach Hause.",
+   "ex_en": "We are going home.",
+   "ex_ar": "نحن ذاهبون إلى المنزل."
+  },
+  {
+   "id": "de-0025",
+   "term": "essen",
+   "en": "to eat",
+   "ar": "يأكل",
+   "cat": "verbs",
+   "ex": "Was isst du gern?",
+   "ex_en": "What do you like to eat?",
+   "ex_ar": "ماذا تحب أن تأكل؟"
+  },
+  {
+   "id": "de-0026",
+   "term": "trinken",
+   "en": "to drink",
+   "ar": "يشرب",
+   "cat": "verbs",
+   "ex": "Ich trinke gern Tee.",
+   "ex_en": "I like to drink tea.",
+   "ex_ar": "أحب أن أشرب الشاي."
+  },
+  {
+   "id": "de-0027",
+   "term": "machen",
+   "en": "to do/make",
+   "ar": "يفعل",
+   "cat": "verbs",
+   "ex": "Was machst du heute?",
+   "ex_en": "What are you doing today?",
+   "ex_ar": "ماذا تفعل اليوم؟"
+  },
+  {
+   "id": "de-0028",
+   "term": "brauchen",
+   "en": "to need",
+   "ar": "يحتاج",
+   "cat": "verbs",
+   "ex": "Ich brauche Hilfe.",
+   "ex_en": "I need help.",
+   "ex_ar": "أحتاج إلى مساعدة."
+  },
+  {
+   "id": "de-0029",
+   "term": "mögen",
+   "en": "to like",
+   "ar": "يحب",
+   "cat": "verbs",
+   "ex": "Ich mag Musik.",
+   "ex_en": "I like music.",
+   "ex_ar": "أحب الموسيقى."
+  },
+  {
+   "id": "de-0030",
+   "term": "verstehen",
+   "en": "to understand",
+   "ar": "يفهم",
+   "cat": "verbs",
+   "ex": "Verstehst du mich?",
+   "ex_en": "Do you understand me?",
+   "ex_ar": "هل تفهمني؟"
+  },
+  {
+   "id": "de-0031",
+   "term": "heißen",
+   "en": "to be called",
+   "ar": "يُدعى",
+   "cat": "verbs",
+   "ex": "Wie heißt das auf Deutsch?",
+   "ex_en": "What is that called in German?",
+   "ex_ar": "ماذا يسمى هذا بالألمانية؟"
+  },
+  {
+   "id": "de-0032",
+   "term": "eins",
+   "en": "one",
+   "ar": "واحد",
+   "cat": "numbers",
+   "ex": "Ich habe eins.",
+   "ex_en": "I have one.",
+   "ex_ar": "لدي واحد."
+  },
+  {
+   "id": "de-0033",
+   "term": "zwei",
+   "en": "two",
+   "ar": "اثنان",
+   "cat": "numbers",
+   "ex": "Zwei Kaffee, bitte.",
+   "ex_en": "Two coffees, please.",
+   "ex_ar": "قهوتان من فضلك."
+  },
+  {
+   "id": "de-0034",
+   "term": "drei",
+   "en": "three",
+   "ar": "ثلاثة",
+   "cat": "numbers",
+   "ex": "Wir sind drei Personen.",
+   "ex_en": "We are three people.",
+   "ex_ar": "نحن ثلاثة أشخاص."
+  },
+  {
+   "id": "de-0035",
+   "term": "vier",
+   "en": "four",
+   "ar": "أربعة",
+   "cat": "numbers",
+   "ex": "Es ist vier Uhr.",
+   "ex_en": "It is four o'clock.",
+   "ex_ar": "الساعة الرابعة."
+  },
+  {
+   "id": "de-0036",
+   "term": "fünf",
+   "en": "five",
+   "ar": "خمسة",
+   "cat": "numbers",
+   "ex": "Fünf Minuten, bitte.",
+   "ex_en": "Five minutes, please.",
+   "ex_ar": "خمس دقائق من فضلك."
+  },
+  {
+   "id": "de-0037",
+   "term": "sechs",
+   "en": "six",
+   "ar": "ستة",
+   "cat": "numbers",
+   "ex": "Der Kurs beginnt um sechs.",
+   "ex_en": "The course starts at six.",
+   "ex_ar": "تبدأ الدورة في السادسة."
+  },
+  {
+   "id": "de-0038",
+   "term": "sieben",
+   "en": "seven",
+   "ar": "سبعة",
+   "cat": "numbers",
+   "ex": "Ich stehe um sieben auf.",
+   "ex_en": "I get up at seven.",
+   "ex_ar": "أستيقظ في السابعة."
+  },
+  {
+   "id": "de-0039",
+   "term": "acht",
+   "en": "eight",
+   "ar": "ثمانية",
+   "cat": "numbers",
+   "ex": "Wir treffen uns um acht.",
+   "ex_en": "We meet at eight.",
+   "ex_ar": "نلتقي في الثامنة."
+  },
+  {
+   "id": "de-0040",
+   "term": "neun",
+   "en": "nine",
+   "ar": "تسعة",
+   "cat": "numbers",
+   "ex": "Das Geschäft öffnet um neun.",
+   "ex_en": "The shop opens at nine.",
+   "ex_ar": "يفتح المتجر في التاسعة."
+  },
+  {
+   "id": "de-0041",
+   "term": "zehn",
+   "en": "ten",
+   "ar": "عشرة",
+   "cat": "numbers",
+   "ex": "Zehn Euro, bitte.",
+   "ex_en": "Ten euros, please.",
+   "ex_ar": "عشرة يورو من فضلك."
+  },
+  {
+   "id": "de-0042",
+   "term": "zwanzig",
+   "en": "twenty",
+   "ar": "عشرون",
+   "cat": "numbers",
+   "ex": "Ich bin zwanzig Jahre alt.",
+   "ex_en": "I am twenty years old.",
+   "ex_ar": "عمري عشرون عاماً."
+  },
+  {
+   "id": "de-0043",
+   "term": "hundert",
+   "en": "hundred",
+   "ar": "مئة",
+   "cat": "numbers",
+   "ex": "Das kostet hundert Euro.",
+   "ex_en": "That costs a hundred euros.",
+   "ex_ar": "يكلف هذا مئة يورو."
+  },
+  {
+   "id": "de-0044",
+   "term": "die Familie",
+   "en": "the family",
+   "ar": "العائلة",
+   "cat": "family",
+   "ex": "Meine Familie ist groß.",
+   "ex_en": "My family is big.",
+   "ex_ar": "عائلتي كبيرة."
+  },
+  {
+   "id": "de-0045",
+   "term": "der Vater",
+   "en": "the father",
+   "ar": "الأب",
+   "cat": "family",
+   "ex": "Mein Vater arbeitet viel.",
+   "ex_en": "My father works a lot.",
+   "ex_ar": "والدي يعمل كثيراً."
+  },
+  {
+   "id": "de-0046",
+   "term": "die Mutter",
+   "en": "the mother",
+   "ar": "الأم",
+   "cat": "family",
+   "ex": "Meine Mutter kocht gern.",
+   "ex_en": "My mother likes to cook.",
+   "ex_ar": "أمي تحب الطبخ."
+  },
+  {
+   "id": "de-0047",
+   "term": "der Bruder",
+   "en": "the brother",
+   "ar": "الأخ",
+   "cat": "family",
+   "ex": "Ich habe einen Bruder.",
+   "ex_en": "I have one brother.",
+   "ex_ar": "لدي أخ واحد."
+  },
+  {
+   "id": "de-0048",
+   "term": "die Schwester",
+   "en": "the sister",
+   "ar": "الأخت",
+   "cat": "family",
+   "ex": "Meine Schwester studiert.",
+   "ex_en": "My sister is studying.",
+   "ex_ar": "أختي تدرس."
+  },
+  {
+   "id": "de-0049",
+   "term": "das Kind",
+   "en": "the child",
+   "ar": "الطفل",
+   "cat": "family",
+   "ex": "Das Kind spielt draußen.",
+   "ex_en": "The child is playing outside.",
+   "ex_ar": "الطفل يلعب بالخارج."
+  },
+  {
+   "id": "de-0050",
+   "term": "der Freund",
+   "en": "the friend (m.)",
+   "ar": "الصديق",
+   "cat": "family",
+   "ex": "Er ist mein bester Freund.",
+   "ex_en": "He is my best friend.",
+   "ex_ar": "هو أفضل صديق لي."
+  },
+  {
+   "id": "de-0051",
+   "term": "das Brot",
+   "en": "the bread",
+   "ar": "الخبز",
+   "cat": "food",
+   "ex": "Ich kaufe frisches Brot.",
+   "ex_en": "I buy fresh bread.",
+   "ex_ar": "أشتري خبزاً طازجاً."
+  },
+  {
+   "id": "de-0052",
+   "term": "das Wasser",
+   "en": "the water",
+   "ar": "الماء",
+   "cat": "food",
+   "ex": "Ein Glas Wasser, bitte.",
+   "ex_en": "A glass of water, please.",
+   "ex_ar": "كوب ماء من فضلك."
+  },
+  {
+   "id": "de-0053",
+   "term": "der Kaffee",
+   "en": "the coffee",
+   "ar": "القهوة",
+   "cat": "food",
+   "ex": "Ich trinke jeden Morgen Kaffee.",
+   "ex_en": "I drink coffee every morning.",
+   "ex_ar": "أشرب القهوة كل صباح."
+  },
+  {
+   "id": "de-0054",
+   "term": "der Tee",
+   "en": "the tea",
+   "ar": "الشاي",
+   "cat": "food",
+   "ex": "Möchtest du Tee oder Kaffee?",
+   "ex_en": "Would you like tea or coffee?",
+   "ex_ar": "هل تريد شاياً أم قهوة؟"
+  },
+  {
+   "id": "de-0055",
+   "term": "das Obst",
+   "en": "the fruit",
+   "ar": "الفاكهة",
+   "cat": "food",
+   "ex": "Ich esse gern Obst.",
+   "ex_en": "I like eating fruit.",
+   "ex_ar": "أحب أكل الفاكهة."
+  },
+  {
+   "id": "de-0056",
+   "term": "das Gemüse",
+   "en": "the vegetables",
+   "ar": "الخضروات",
+   "cat": "food",
+   "ex": "Gemüse ist gesund.",
+   "ex_en": "Vegetables are healthy.",
+   "ex_ar": "الخضروات مفيدة للصحة."
+  },
+  {
+   "id": "de-0057",
+   "term": "das Fleisch",
+   "en": "the meat",
+   "ar": "اللحم",
+   "cat": "food",
+   "ex": "Ich esse kein Fleisch.",
+   "ex_en": "I don't eat meat.",
+   "ex_ar": "لا آكل اللحم."
+  },
+  {
+   "id": "de-0058",
+   "term": "der Reis",
+   "en": "the rice",
+   "ar": "الأرز",
+   "cat": "food",
+   "ex": "Reis mit Gemüse schmeckt gut.",
+   "ex_en": "Rice with vegetables tastes good.",
+   "ex_ar": "الأرز مع الخضار طعمه جيد."
+  },
+  {
+   "id": "de-0059",
+   "term": "das Restaurant",
+   "en": "the restaurant",
+   "ar": "المطعم",
+   "cat": "food",
+   "ex": "Wir essen im Restaurant.",
+   "ex_en": "We are eating at the restaurant.",
+   "ex_ar": "نأكل في المطعم."
+  },
+  {
+   "id": "de-0060",
+   "term": "heute",
+   "en": "today",
+   "ar": "اليوم",
+   "cat": "time",
+   "ex": "Was machst du heute?",
+   "ex_en": "What are you doing today?",
+   "ex_ar": "ماذا تفعل اليوم؟"
+  },
+  {
+   "id": "de-0061",
+   "term": "morgen",
+   "en": "tomorrow",
+   "ar": "غداً",
+   "cat": "time",
+   "ex": "Bis morgen!",
+   "ex_en": "See you tomorrow!",
+   "ex_ar": "أراك غداً!"
+  },
+  {
+   "id": "de-0062",
+   "term": "gestern",
+   "en": "yesterday",
+   "ar": "أمس",
+   "cat": "time",
+   "ex": "Gestern war ich müde.",
+   "ex_en": "Yesterday I was tired.",
+   "ex_ar": "بالأمس كنت متعباً."
+  },
+  {
+   "id": "de-0063",
+   "term": "die Woche",
+   "en": "the week",
+   "ar": "الأسبوع",
+   "cat": "time",
+   "ex": "Nächste Woche fahre ich weg.",
+   "ex_en": "Next week I'm going away.",
+   "ex_ar": "الأسبوع القادم سأسافر."
+  },
+  {
+   "id": "de-0064",
+   "term": "der Montag",
+   "en": "Monday",
+   "ar": "الاثنين",
+   "cat": "time",
+   "ex": "Am Montag beginnt die Arbeit.",
+   "ex_en": "Work starts on Monday.",
+   "ex_ar": "يبدأ العمل يوم الاثنين."
+  },
+  {
+   "id": "de-0065",
+   "term": "der Sonntag",
+   "en": "Sunday",
+   "ar": "الأحد",
+   "cat": "time",
+   "ex": "Sonntag ist mein freier Tag.",
+   "ex_en": "Sunday is my day off.",
+   "ex_ar": "الأحد هو يوم إجازتي."
+  },
+  {
+   "id": "de-0066",
+   "term": "die Uhrzeit",
+   "en": "the time (clock)",
+   "ar": "الوقت",
+   "cat": "time",
+   "ex": "Wie spät ist es?",
+   "ex_en": "What time is it?",
+   "ex_ar": "كم الساعة؟"
+  },
+  {
+   "id": "de-0067",
+   "term": "der Monat",
+   "en": "the month",
+   "ar": "الشهر",
+   "cat": "time",
+   "ex": "Dieser Monat ist sehr kalt.",
+   "ex_en": "This month is very cold.",
+   "ex_ar": "هذا الشهر بارد جداً."
+  },
+  {
+   "id": "de-0068",
+   "term": "das Jahr",
+   "en": "the year",
+   "ar": "السنة",
+   "cat": "time",
+   "ex": "Dieses Jahr lerne ich Deutsch.",
+   "ex_en": "This year I am learning German.",
+   "ex_ar": "هذا العام أتعلم الألمانية."
+  },
+  {
+   "id": "de-0069",
+   "term": "die Stadt",
+   "en": "the city",
+   "ar": "المدينة",
+   "cat": "places",
+   "ex": "Berlin ist eine große Stadt.",
+   "ex_en": "Berlin is a big city.",
+   "ex_ar": "برلين مدينة كبيرة."
+  },
+  {
+   "id": "de-0070",
+   "term": "das Haus",
+   "en": "the house",
+   "ar": "المنزل",
+   "cat": "places",
+   "ex": "Das Haus ist neu.",
+   "ex_en": "The house is new.",
+   "ex_ar": "المنزل جديد."
+  },
+  {
+   "id": "de-0071",
+   "term": "die Schule",
+   "en": "the school",
+   "ar": "المدرسة",
+   "cat": "places",
+   "ex": "Die Kinder gehen zur Schule.",
+   "ex_en": "The children go to school.",
+   "ex_ar": "الأطفال يذهبون إلى المدرسة."
+  },
+  {
+   "id": "de-0072",
+   "term": "der Bahnhof",
+   "en": "the train station",
+   "ar": "محطة القطار",
+   "cat": "places",
+   "ex": "Der Bahnhof ist weit weg.",
+   "ex_en": "The train station is far away.",
+   "ex_ar": "محطة القطار بعيدة."
+  },
+  {
+   "id": "de-0073",
+   "term": "der Flughafen",
+   "en": "the airport",
+   "ar": "المطار",
+   "cat": "places",
+   "ex": "Wir fahren zum Flughafen.",
+   "ex_en": "We are driving to the airport.",
+   "ex_ar": "نحن ذاهبون إلى المطار."
+  },
+  {
+   "id": "de-0074",
+   "term": "das Geschäft",
+   "en": "the shop",
+   "ar": "المتجر",
+   "cat": "places",
+   "ex": "Das Geschäft ist geschlossen.",
+   "ex_en": "The shop is closed.",
+   "ex_ar": "المتجر مغلق."
+  },
+  {
+   "id": "de-0075",
+   "term": "die Straße",
+   "en": "the street",
+   "ar": "الشارع",
+   "cat": "places",
+   "ex": "Die Straße ist sehr lang.",
+   "ex_en": "The street is very long.",
+   "ex_ar": "الشارع طويل جداً."
+  },
+  {
+   "id": "de-0076",
+   "term": "gut",
+   "en": "good",
+   "ar": "جيد",
+   "cat": "adjectives",
+   "ex": "Das ist eine gute Idee.",
+   "ex_en": "That's a good idea.",
+   "ex_ar": "هذه فكرة جيدة."
+  },
+  {
+   "id": "de-0077",
+   "term": "schlecht",
+   "en": "bad",
+   "ar": "سيء",
+   "cat": "adjectives",
+   "ex": "Das Wetter ist schlecht.",
+   "ex_en": "The weather is bad.",
+   "ex_ar": "الطقس سيء."
+  },
+  {
+   "id": "de-0078",
+   "term": "groß",
+   "en": "big",
+   "ar": "كبير",
+   "cat": "adjectives",
+   "ex": "Das Haus ist sehr groß.",
+   "ex_en": "The house is very big.",
+   "ex_ar": "المنزل كبير جداً."
+  },
+  {
+   "id": "de-0079",
+   "term": "klein",
+   "en": "small",
+   "ar": "صغير",
+   "cat": "adjectives",
+   "ex": "Die Wohnung ist klein.",
+   "ex_en": "The apartment is small.",
+   "ex_ar": "الشقة صغيرة."
+  },
+  {
+   "id": "de-0080",
+   "term": "neu",
+   "en": "new",
+   "ar": "جديد",
+   "cat": "adjectives",
+   "ex": "Ich habe ein neues Auto.",
+   "ex_en": "I have a new car.",
+   "ex_ar": "لدي سيارة جديدة."
+  },
+  {
+   "id": "de-0081",
+   "term": "alt",
+   "en": "old",
+   "ar": "قديم/عجوز",
+   "cat": "adjectives",
+   "ex": "Das Gebäude ist sehr alt.",
+   "ex_en": "The building is very old.",
+   "ex_ar": "المبنى قديم جداً."
+  },
+  {
+   "id": "de-0082",
+   "term": "schnell",
+   "en": "fast",
+   "ar": "سريع",
+   "cat": "adjectives",
+   "ex": "Der Zug ist schnell.",
+   "ex_en": "The train is fast.",
+   "ex_ar": "القطار سريع."
+  },
+  {
+   "id": "de-0083",
+   "term": "langsam",
+   "en": "slow",
+   "ar": "بطيء",
+   "cat": "adjectives",
+   "ex": "Er spricht langsam.",
+   "ex_en": "He speaks slowly.",
+   "ex_ar": "هو يتحدث ببطء."
+  },
+  {
+   "id": "de-0084",
+   "term": "schön",
+   "en": "beautiful",
+   "ar": "جميل",
+   "cat": "adjectives",
+   "ex": "Die Stadt ist schön.",
+   "ex_en": "The city is beautiful.",
+   "ex_ar": "المدينة جميلة."
+  },
+  {
+   "id": "de-0085",
+   "term": "teuer",
+   "en": "expensive",
+   "ar": "غالي",
+   "cat": "adjectives",
+   "ex": "Das Hotel ist teuer.",
+   "ex_en": "The hotel is expensive.",
+   "ex_ar": "الفندق غالي."
+  },
+  {
+   "id": "de-0086",
+   "term": "billig",
+   "en": "cheap",
+   "ar": "رخيص",
+   "cat": "adjectives",
+   "ex": "Dieses Restaurant ist billig.",
+   "ex_en": "This restaurant is cheap.",
+   "ex_ar": "هذا المطعم رخيص."
+  },
+  {
+   "id": "de-0087",
+   "term": "müde",
+   "en": "tired",
+   "ar": "متعب",
+   "cat": "adjectives",
+   "ex": "Ich bin heute sehr müde.",
+   "ex_en": "I am very tired today.",
+   "ex_ar": "أنا متعب جداً اليوم."
+  },
+  {
+   "id": "de-0088",
+   "term": "wer",
+   "en": "who",
+   "ar": "من",
+   "cat": "questions",
+   "ex": "Wer bist du?",
+   "ex_en": "Who are you?",
+   "ex_ar": "من أنت؟"
+  },
+  {
+   "id": "de-0089",
+   "term": "was",
+   "en": "what",
+   "ar": "ماذا",
+   "cat": "questions",
+   "ex": "Was machst du?",
+   "ex_en": "What are you doing?",
+   "ex_ar": "ماذا تفعل؟"
+  },
+  {
+   "id": "de-0090",
+   "term": "wo",
+   "en": "where",
+   "ar": "أين",
+   "cat": "questions",
+   "ex": "Wo wohnst du?",
+   "ex_en": "Where do you live?",
+   "ex_ar": "أين تسكن؟"
+  },
+  {
+   "id": "de-0091",
+   "term": "wann",
+   "en": "when",
+   "ar": "متى",
+   "cat": "questions",
+   "ex": "Wann kommst du an?",
+   "ex_en": "When do you arrive?",
+   "ex_ar": "متى ستصل؟"
+  },
+  {
+   "id": "de-0092",
+   "term": "warum",
+   "en": "why",
+   "ar": "لماذا",
+   "cat": "questions",
+   "ex": "Warum lernst du Deutsch?",
+   "ex_en": "Why are you learning German?",
+   "ex_ar": "لماذا تتعلم الألمانية؟"
+  },
+  {
+   "id": "de-0093",
+   "term": "wie",
+   "en": "how",
+   "ar": "كيف",
+   "cat": "questions",
+   "ex": "Wie geht es dir?",
+   "ex_en": "How are you?",
+   "ex_ar": "كيف حالك؟"
+  },
+  {
+   "id": "de-0094",
+   "term": "wie viel",
+   "en": "how much",
+   "ar": "كم",
+   "cat": "questions",
+   "ex": "Wie viel kostet das?",
+   "ex_en": "How much does that cost?",
+   "ex_ar": "كم يكلف هذا؟"
+  },
+  {
+   "id": "de-0095",
+   "term": "und",
+   "en": "and",
+   "ar": "و",
+   "cat": "connectors",
+   "ex": "Ich lerne Deutsch und Niederländisch.",
+   "ex_en": "I'm learning German and Dutch.",
+   "ex_ar": "أتعلم الألمانية والهولندية."
+  },
+  {
+   "id": "de-0096",
+   "term": "aber",
+   "en": "but",
+   "ar": "لكن",
+   "cat": "connectors",
+   "ex": "Ich bin müde, aber glücklich.",
+   "ex_en": "I'm tired but happy.",
+   "ex_ar": "أنا متعب لكن سعيد."
+  },
+  {
+   "id": "de-0097",
+   "term": "oder",
+   "en": "or",
+   "ar": "أو",
+   "cat": "connectors",
+   "ex": "Kaffee oder Tee?",
+   "ex_en": "Coffee or tea?",
+   "ex_ar": "قهوة أم شاي؟"
+  },
+  {
+   "id": "de-0098",
+   "term": "weil",
+   "en": "because",
+   "ar": "لأن",
+   "cat": "connectors",
+   "ex": "Ich lerne, weil ich es liebe.",
+   "ex_en": "I'm learning because I love it.",
+   "ex_ar": "أتعلم لأنني أحب ذلك."
+  },
+  {
+   "id": "de-0099",
+   "term": "dann",
+   "en": "then",
+   "ar": "ثم",
+   "cat": "connectors",
+   "ex": "Zuerst esse ich, dann arbeite ich.",
+   "ex_en": "First I eat, then I work.",
+   "ex_ar": "أولاً آكل، ثم أعمل."
+  },
+  {
+   "id": "de-0100",
+   "term": "der Tag",
+   "en": "the day",
+   "ar": "اليوم",
+   "cat": "daily",
+   "ex": "Ich hatte einen langen Tag.",
+   "ex_en": "I had a long day.",
+   "ex_ar": "كان لدي يوم طويل."
+  },
+  {
+   "id": "de-0101",
+   "term": "die Arbeit",
+   "en": "the work",
+   "ar": "العمل",
+   "cat": "daily",
+   "ex": "Die Arbeit macht Spaß.",
+   "ex_en": "The work is fun.",
+   "ex_ar": "العمل ممتع."
+  },
+  {
+   "id": "de-0102",
+   "term": "das Telefon",
+   "en": "the phone",
+   "ar": "الهاتف",
+   "cat": "daily",
+   "ex": "Mein Telefon ist neu.",
+   "ex_en": "My phone is new.",
+   "ex_ar": "هاتفي جديد."
+  },
+  {
+   "id": "de-0103",
+   "term": "das Auto",
+   "en": "the car",
+   "ar": "السيارة",
+   "cat": "daily",
+   "ex": "Er fährt ein rotes Auto.",
+   "ex_en": "He drives a red car.",
+   "ex_ar": "هو يقود سيارة حمراء."
+  },
+  {
+   "id": "de-0104",
+   "term": "der Zug",
+   "en": "the train",
+   "ar": "القطار",
+   "cat": "daily",
+   "ex": "Der Zug fährt pünktlich.",
+   "ex_en": "The train departs on time.",
+   "ex_ar": "القطار يغادر في الموعد."
+  },
+  {
+   "id": "de-0105",
+   "term": "das Geld",
+   "en": "the money",
+   "ar": "المال",
+   "cat": "daily",
+   "ex": "Ich habe wenig Geld dabei.",
+   "ex_en": "I have little money with me.",
+   "ex_ar": "معي مال قليل."
+  },
+  {
+   "id": "de-0106",
+   "term": "die Zeit",
+   "en": "the time",
+   "ar": "الوقت",
+   "cat": "daily",
+   "ex": "Ich habe keine Zeit.",
+   "ex_en": "I don't have time.",
+   "ex_ar": "ليس لدي وقت."
+  },
+  {
+   "id": "de-0107",
+   "term": "die Frage",
+   "en": "the question",
+   "ar": "السؤال",
+   "cat": "daily",
+   "ex": "Ich habe eine Frage.",
+   "ex_en": "I have a question.",
+   "ex_ar": "لدي سؤال."
+  },
+  {
+   "id": "de-0108",
+   "term": "die Antwort",
+   "en": "the answer",
+   "ar": "الجواب",
+   "cat": "daily",
+   "ex": "Das ist die richtige Antwort.",
+   "ex_en": "That is the correct answer.",
+   "ex_ar": "هذه هي الإجابة الصحيحة."
+  },
+  {
+   "id": "de-0109",
+   "term": "das Buch",
+   "en": "the book",
+   "ar": "الكتاب",
+   "cat": "daily",
+   "ex": "Ich lese ein interessantes Buch.",
+   "ex_en": "I'm reading an interesting book.",
+   "ex_ar": "أقرأ كتاباً ممتعاً."
+  },
+  {
+   "id": "de-0110",
+   "term": "Wie geht's?",
+   "en": "How's it going?",
+   "ar": "كيف الحال؟",
+   "cat": "phrases",
+   "ex": "Hallo! Wie geht's dir heute?",
+   "ex_en": "Hi! How's it going today?",
+   "ex_ar": "مرحباً! كيف حالك اليوم؟"
+  },
+  {
+   "id": "de-0111",
+   "term": "Kein Problem",
+   "en": "No problem",
+   "ar": "لا مشكلة",
+   "cat": "phrases",
+   "ex": "Danke! – Kein Problem.",
+   "ex_en": "Thanks! – No problem.",
+   "ex_ar": "شكراً! - لا مشكلة."
+  },
+  {
+   "id": "de-0112",
+   "term": "Ich weiß nicht",
+   "en": "I don't know",
+   "ar": "لا أعرف",
+   "cat": "phrases",
+   "ex": "Ich weiß nicht, wo das ist.",
+   "ex_en": "I don't know where that is.",
+   "ex_ar": "لا أعرف أين ذلك."
+  },
+  {
+   "id": "de-0113",
+   "term": "Noch einmal, bitte",
+   "en": "One more time, please",
+   "ar": "مرة أخرى من فضلك",
+   "cat": "phrases",
+   "ex": "Kannst du das noch einmal sagen?",
+   "ex_en": "Can you say that one more time?",
+   "ex_ar": "هل يمكنك قول ذلك مرة أخرى؟"
+  },
+  {
+   "id": "de-0114",
+   "term": "Ich hätte gern",
+   "en": "I would like",
+   "ar": "أرغب في",
+   "cat": "phrases",
+   "ex": "Ich hätte gern einen Kaffee.",
+   "ex_en": "I would like a coffee.",
+   "ex_ar": "أرغب في قهوة."
+  }
+ ]
+}

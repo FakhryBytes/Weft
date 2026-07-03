@@ -1,0 +1,381 @@
+{
+ "lang": "en",
+ "lessons": [
+  {
+   "id": "en-g1",
+   "title": "Articles: a, an, the, and zero article",
+   "level": "C1",
+   "expl_en": "Native speakers choose articles based on whether something is specific/known (the), one of a general class (a/an), or a general/uncountable/plural concept (no article): 'The report I sent you' vs 'a report' vs 'Reports like this are common.' Arabic's definite article 'ال' doesn't map cleanly onto English, so overusing 'the' is a common tell.",
+   "expl_ar": "اختيار أداة التعريف يعتمد على ما إذا كان الشيء معروفاً ومحدداً أم لا. أداة التعريف العربية 'ال' لا تقابل 'the' الإنجليزية دائماً، والإفراط في استخدامها علامة شائعة على غير الناطقين الأصليين.",
+   "examples": [
+    "I read a good book. The book was about history.",
+    "Honesty is important. (no article — general concept)",
+    "She's the best candidate for the job."
+   ],
+   "quiz": [
+    {
+     "q": "'___ water is essential for life.' (general concept)",
+     "options": [
+      "The",
+      "A",
+      "—  (no article)",
+      "An"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "'I saw ___ interesting film last night. ___ film was about space.'",
+     "options": [
+      "a / The",
+      "the / A",
+      "a / A",
+      "the / The"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "Overusing 'the' where English expects no article is often a sign of influence from:",
+     "options": [
+      "French",
+      "Arabic's definite article",
+      "German cases",
+      "Dutch word order"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-g2",
+   "title": "Preposition precision: in, on, at",
+   "level": "C1",
+   "expl_en": "Time and place prepositions in English don't translate literally from Arabic. Roughly: 'at' for precise points (at 5pm, at the door), 'on' for surfaces and days (on Monday, on the table), 'in' for enclosed spaces and longer periods (in July, in the room). Many errors come from translating the Arabic preposition directly.",
+   "expl_ar": "حروف الجر الخاصة بالزمان والمكان لا تُترجم حرفياً من العربية. at للنقاط الدقيقة، on للأيام والأسطح، in للمساحات المغلقة والفترات الطويلة.",
+   "examples": [
+    "The meeting is at 3pm on Monday in July.",
+    "She's waiting at the entrance.",
+    "He put the keys on the table."
+   ],
+   "quiz": [
+    {
+     "q": "'I'll see you ___ the conference.' (a specific point/event)",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "'The book is ___ the shelf.' (surface)",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "for"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'We're meeting ___ March.' (a longer period)",
+     "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+     ],
+     "answer": 2,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-g3",
+   "title": "Present perfect vs. simple past",
+   "level": "C1",
+   "expl_en": "Native speakers use the present perfect (have done) when a past action still matters now or its exact time is unspecified, and the simple past (did) when the time is finished or specified: 'I've lived here for years' (still true) vs 'I lived in Cairo in 2015' (finished, specific time).",
+   "expl_ar": "المضارع التام يُستخدم عندما يكون للفعل الماضي أثر مستمر حتى الآن أو دون تحديد الوقت، أما الماضي البسيط فيُستخدم مع وقت محدد ومنتهٍ.",
+   "examples": [
+    "I've finished the report. (relevant now)",
+    "I finished the report yesterday. (specific time)",
+    "Have you ever been to Amsterdam?"
+   ],
+   "quiz": [
+    {
+     "q": "'I ___ this movie already.' (relevance now, no specific time)",
+     "options": [
+      "saw",
+      "have seen",
+      "see",
+      "was seeing"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'She ___ to Berlin last year.' (specific, finished time)",
+     "options": [
+      "has gone",
+      "went",
+      "has been",
+      "goes"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Present perfect is generally avoided with words like:",
+     "options": [
+      "already, yet",
+      "yesterday, last year",
+      "ever, never",
+      "for, since"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-g4",
+   "title": "Collocation instinct: words that pair naturally",
+   "level": "C1",
+   "expl_en": "Native fluency shows in which words habitually go together, not just grammatical correctness. 'Make a mistake', 'heavy traffic', 'strong opinion' sound natural; 'do a mistake' or 'strong traffic' sound foreign even though the grammar is fine. Building a mental library of these pairs is what closes the gap to native-like.",
+   "expl_ar": "الطلاقة الأصيلة تظهر في اختيار الكلمات التي تتلازم بشكل طبيعي، وليس فقط في صحة القواعد.",
+   "examples": [
+    "make a mistake (not 'do a mistake')",
+    "heavy traffic (not 'strong traffic')",
+    "a strong argument (not 'a heavy argument')"
+   ],
+   "quiz": [
+    {
+     "q": "Which sounds natural to a native speaker?",
+     "options": [
+      "do a mistake",
+      "make a mistake",
+      "make a error",
+      "do an error"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'She has a ___ accent.' (natural collocation)",
+     "options": [
+      "heavy",
+      "strong",
+      "big",
+      "hard"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Closing the gap to native-like fluency mainly requires:",
+     "options": [
+      "memorizing more grammar rules",
+      "building a library of natural word pairings",
+      "speaking faster",
+      "using longer sentences"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-g5",
+   "title": "Softening and hedging in professional English",
+   "level": "B2",
+   "expl_en": "Native speakers soften direct statements in professional contexts using modals and hedges: 'This might not work' instead of 'This doesn't work'; 'I was wondering if...' instead of 'I want...'. Direct translation from more direct languages can sound blunt or even rude in English business contexts.",
+   "expl_ar": "المتحدثون الأصليون يلطّفون العبارات المباشرة في السياقات المهنية باستخدام أفعال شرطية وتعبيرات تخفيف.",
+   "examples": [
+    "This might not be the best approach.",
+    "I was wondering if we could revisit this.",
+    "It would be great if you could send that by Friday."
+   ],
+   "quiz": [
+    {
+     "q": "Which is the most 'softened' professional request?",
+     "options": [
+      "Send me the file.",
+      "I was wondering if you could send me the file.",
+      "Give me the file now.",
+      "You must send the file."
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Hedging language is especially important in:",
+     "options": [
+      "casual texts with friends",
+      "professional/business communication",
+      "emergency situations",
+      "song lyrics"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'This ___ cause issues later.' (softened warning)",
+     "options": [
+      "will",
+      "might",
+      "must",
+      "shall"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-g6",
+   "title": "Fronting and emphasis",
+   "level": "C1",
+   "expl_en": "English can shift word order to add emphasis, especially in speech: 'Never have I seen such chaos' (inversion after a negative), or 'What really surprised me was the silence' (cleft sentence). These patterns are optional but mark advanced, deliberate style.",
+   "expl_ar": "يمكن للإنجليزية تغيير ترتيب الكلمات للتأكيد، خاصة في الكلام، وهذه الأنماط اختيارية لكنها تدل على أسلوب متقدم.",
+   "examples": [
+    "Never have I seen such chaos.",
+    "What really surprised me was the silence.",
+    "Rarely do we get this chance."
+   ],
+   "quiz": [
+    {
+     "q": "'___ have I seen such dedication.' (inversion for emphasis)",
+     "options": [
+      "Never",
+      "I never",
+      "Not never",
+      "No never"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "A cleft sentence like 'What surprised me was...' is used to:",
+     "options": [
+      "simplify grammar",
+      "add emphasis to one part of the sentence",
+      "avoid the passive voice",
+      "ask a question"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Rarely ___ we get this chance.' (inversion)",
+     "options": [
+      "we do",
+      "do we",
+      "we don't",
+      "don't we"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-g7",
+   "title": "Register: formal vs. informal choices",
+   "level": "B2",
+   "expl_en": "Native-like fluency includes knowing when to shift register: 'purchase' vs 'buy', 'commence' vs 'start', 'kids' vs 'children'. Mixing high-formal vocabulary into casual speech (or vice versa) is a common non-native tell, even when grammar is perfect.",
+   "expl_ar": "الطلاقة الأصيلة تشمل معرفة متى تُستخدم الكلمات الرسمية ومتى تُستخدم العامية؛ خلط المستويين علامة شائعة على غير الناطقين الأصليين.",
+   "examples": [
+    "Formal: 'We shall commence the meeting at 9am.'",
+    "Casual: 'Let's kick things off at 9.'",
+    "Mismatched: 'Hey, we shall commence now!' (odd mix)"
+   ],
+   "quiz": [
+    {
+     "q": "Which pair is casual register?",
+     "options": [
+      "purchase / commence",
+      "buy / start",
+      "acquire / initiate",
+      "obtain / begin"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "A common non-native tell is:",
+     "options": [
+      "using contractions in speech",
+      "mixing formal and casual vocabulary inconsistently",
+      "using short sentences",
+      "asking questions"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "In a casual email to a colleague, which fits better?",
+     "options": [
+      "'I would like to inform you...'",
+      "'Just a heads up...'",
+      "'It is hereby noted that...'",
+      "'Please be advised...'"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-g8",
+   "title": "False friends and calques to watch for",
+   "level": "C1",
+   "expl_en": "Some direct translations from Arabic sound off in English: 'I have 30 years' → should be 'I am 30 years old'; 'discuss about' → should be just 'discuss' (no 'about'); 'the majority of people they think' → should drop the redundant pronoun 'they'. Noticing these patterns in your own speech speeds up the shift to native-like phrasing.",
+   "expl_ar": "بعض الترجمات الحرفية من العربية تبدو غريبة بالإنجليزية؛ ملاحظة هذه الأنماط في كلامك تسرّع من اقترابك من الطلاقة الأصيلة.",
+   "examples": [
+    "I am 30 years old. (not 'I have 30 years')",
+    "Let's discuss this. (not 'discuss about this')",
+    "Most people think... (not 'the majority of people they think')"
+   ],
+   "quiz": [
+    {
+     "q": "Correct version of 'I have 25 years':",
+     "options": [
+      "I have 25 years old",
+      "I am 25 years old",
+      "I am 25 years",
+      "I have 25 age"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Correct version of 'We discussed about the plan':",
+     "options": [
+      "We discussed about the plan",
+      "We discussed the plan",
+      "We discussed for the plan",
+      "We discussed on the plan"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'The majority of people they think...' should drop:",
+     "options": [
+      "'majority'",
+      "'people'",
+      "the redundant 'they'",
+      "'think'"
+     ],
+     "answer": 2,
+     "note": ""
+    }
+   ]
+  }
+ ]
+}
