@@ -347,6 +347,27 @@ main#view {
 .grade-good  { background: var(--nl); }
 .grade-easy  { background: var(--good); }
 
+.type-input {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 17px;
+  padding: 14px 16px;
+  border-radius: var(--radius-m);
+  border: 1.5px solid var(--paper-line);
+  background: var(--paper-2);
+  color: var(--on-paper);
+}
+.type-input:focus { border-color: var(--en); outline: none; }
+.typed-feedback {
+  font-weight: 600;
+  font-size: 14px;
+  padding: 10px 12px;
+  border-radius: var(--radius-s);
+  margin-bottom: 4px;
+}
+.typed-feedback.correct { background: rgba(91,140,90,0.18); color: var(--good); }
+.typed-feedback.wrong { background: rgba(181,72,47,0.18); color: var(--bad); }
+
 .session-empty {
   margin-top: 40px;
   text-align: center;

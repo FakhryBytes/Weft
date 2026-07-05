@@ -1,0 +1,287 @@
+{
+ "lang": "de",
+ "lessons": [
+  {
+   "id": "de-a2-g1",
+   "title": "Perfekt: the everyday past tense",
+   "level": "A2",
+   "expl_en": "German mostly talks about the past using the Perfekt tense in speech: haben or sein (conjugated) + a past participle at the end of the clause. Most verbs use haben; verbs of motion or change of state (gehen, kommen, fahren) use sein.",
+   "expl_ar": "في اللغة المحكية، يُستخدم زمن الماضي التام (Perfekt) في أغلب الأحيان للحديث عن الماضي بدلاً من الماضي البسيط الذي يقتصر غالبًا على الكتابة الأدبية والأفعال الشائعة مثل sein وhaben. يتكون هذا الزمن من فعل مساعد مصرَّف (haben أو sein) بالإضافة إلى صيغة اسم المفعول (Partizip II) التي تنتقل إلى نهاية الجملة. القاعدة العامة: أفعال الحركة أو التغيّر في الحالة مثل gehen وkommen وfahren تستخدم sein، بينما تستخدم بقية الأفعال haben.",
+   "examples": [
+    "Ich habe Deutsch gelernt.",
+    "Wir sind nach Berlin gefahren.",
+    "Hast du das Buch gelesen?"
+   ],
+   "quiz": [
+    {
+     "q": "'Ich ___ ins Kino gegangen.' (movement verb)",
+     "options": [
+      "habe",
+      "bin",
+      "hat",
+      "ist"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Sie ___ einen Kaffee getrunken.' (non-movement verb)",
+     "options": [
+      "ist",
+      "sind",
+      "hat",
+      "haben"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Where does the past participle go in a Perfekt sentence?",
+     "options": [
+      "Right after the subject",
+      "At the very end of the clause",
+      "Before the auxiliary",
+      "It doesn't matter"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-a2-g2",
+   "title": "Dative case & dative prepositions",
+   "level": "A2",
+   "expl_en": "The dative case marks the indirect object (to/for whom something happens) and is required after certain fixed prepositions: mit, bei, nach, aus, seit, gegenüber, zu, von. Articles change: der→dem, die→der, das→dem, and plural nouns often add -n.",
+   "expl_ar": "تُستخدم حالة الجر (Dativ) للمفعول به غير المباشر (لمن يحدث الفعل)، وهي إلزامية بعد مجموعة ثابتة من حروف الجر مثل mit وbei وnach وaus وseit وgegenüber وzu وvon. في هذه الحالة تتغير الأدوات: der تصبح dem، die تصبح der، das تصبح dem، وغالبًا ما يُضاف حرف -n إلى نهاية الاسم الجمع. من المفيد حفظ هذه الحروف كمجموعة واحدة لأنها تفرض حالة الجر دائمًا بلا استثناء.",
+   "examples": [
+    "Ich fahre mit dem Bus.",
+    "Er wohnt bei seiner Schwester.",
+    "Wir kommen aus der Stadt."
+   ],
+   "quiz": [
+    {
+     "q": "'Ich spreche mit ___ Lehrer.' (der Lehrer, dative)",
+     "options": [
+      "der",
+      "dem",
+      "den",
+      "des"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Which preposition always requires the dative case?",
+     "options": [
+      "für",
+      "ohne",
+      "mit",
+      "durch"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "'nach der Arbeit' means:",
+     "options": [
+      "before work",
+      "after work",
+      "during work",
+      "without work"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-a2-g3",
+   "title": "Separable verbs (trennbare Verben)",
+   "level": "A2",
+   "expl_en": "Many German verbs have a prefix that detaches and jumps to the end of the main clause: aufstehen (to get up) → 'Ich stehe um sieben Uhr auf.' In the infinitive or with a modal verb, the prefix stays attached to the verb.",
+   "expl_ar": "كثير من الأفعال الألمانية تحتوي على بادئة قابلة للانفصال تنتقل إلى نهاية الجملة الرئيسية عند التصريف، مثل aufstehen (ينهض) التي تصبح 'Ich stehe auf' بعد التصريف. أما في صيغة المصدر، أو عند استخدام فعل شرطي معها، فتبقى البادئة ملتصقة بالفعل كوحدة واحدة كما هي في القاموس. من المهم عند حفظ فعل جديد التأكد مما إذا كانت بادئته منفصلة أم غير منفصلة، لأن ذلك يغيّر ترتيب الجملة بالكامل.",
+   "examples": [
+    "Ich rufe dich später an.",
+    "Wir kaufen samstags ein.",
+    "Ich möchte fernsehen. (infinitive stays whole)"
+   ],
+   "quiz": [
+    {
+     "q": "'anrufen' in 'Ich rufe dich an' shows:",
+     "options": [
+      "a spelling mistake",
+      "a separable prefix moved to the end",
+      "a reflexive verb",
+      "a new verb entirely"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "With a modal verb (e.g. 'Ich möchte ... anrufen'), the prefix:",
+     "options": [
+      "separates",
+      "stays attached to the infinitive",
+      "disappears",
+      "moves to the front"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Er kauft heute ___.' (einkaufen)",
+     "options": [
+      "ein",
+      "kauft ein",
+      "einkauft",
+      ""
+     ],
+     "answer": 0,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-a2-g4",
+   "title": "Comparative & superlative adjectives",
+   "level": "A2",
+   "expl_en": "Most adjectives add -er for the comparative and are used with 'am ___sten' for the superlative: schnell → schneller → am schnellsten. Some common adjectives are irregular: gut → besser → am besten; groß → größer → am größten.",
+   "expl_ar": "لتكوين صيغة المقارنة (comparative) تُضاف عادة النهاية -er إلى الصفة، أما صيغة التفضيل المطلق (superlative) فتُستخدم بصيغة 'am ___sten'. مثال: schnell (سريع) تصبح schneller (أسرع) ثم am schnellsten (الأسرع). لكن بعض الصفات الشائعة جداً شاذة تماماً في هذا التكوين، مثل gut (جيد) التي تصبح besser (أفضل) ثم am besten (الأفضل)، وgroß (كبير) التي تصبح größer ثم am größten، لذا يجب حفظ هذه الاستثناءات على حدة.",
+   "examples": [
+    "schnell → schneller → am schnellsten",
+    "gut → besser → am besten",
+    "groß → größer → am größten"
+   ],
+   "quiz": [
+    {
+     "q": "Comparative of 'klein' (small) is:",
+     "options": [
+      "kleiner",
+      "kleinsten",
+      "am kleinen",
+      "kleines"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "'gut' → comparative:",
+     "options": [
+      "guter",
+      "gutter",
+      "besser",
+      "am besten"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Superlative form pattern is:",
+     "options": [
+      "'mehr' + adjective",
+      "'am' + adjective + '-sten'",
+      "adjective + '-est'",
+      "'the' + adjective"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-a2-g5",
+   "title": "Reflexive verbs",
+   "level": "A2",
+   "expl_en": "Reflexive verbs use a reflexive pronoun (mich, dich, sich, uns, euch, sich) that refers back to the subject: 'Ich freue mich' (I'm happy — literally 'I make myself happy'). Some verbs are always reflexive; others become reflexive with a change in meaning.",
+   "expl_ar": "الأفعال الانعكاسية (reflexive) تحتاج إلى ضمير انعكاسي (mich وdich وsich وuns وeuch وsich) يعود على الفاعل نفسه، مثل 'Ich freue mich' (أنا سعيد، وحرفيًا 'أُسعِد نفسي'). بعض الأفعال انعكاسية دائمًا بطبيعتها، بينما تتحول أفعال أخرى إلى صيغة انعكاسية فيتغيّر معناها قليلاً عن صيغتها غير الانعكاسية، لذا يُفضَّل حفظ الفعل الانعكاسي كوحدة كاملة مع ضميره.",
+   "examples": [
+    "Ich freue mich auf die Reise.",
+    "Er interessiert sich für Kunst.",
+    "Wir erinnern uns an den Urlaub."
+   ],
+   "quiz": [
+    {
+     "q": "'Ich freue ___ auf das Wochenende.' (myself)",
+     "options": [
+      "mir",
+      "mich",
+      "mein",
+      "ich"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Reflexive pronoun for 'wir' (we) is:",
+     "options": [
+      "sich",
+      "euch",
+      "uns",
+      "dich"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "'sich interessieren für' means:",
+     "options": [
+      "to be tired of",
+      "to be interested in",
+      "to be afraid of",
+      "to be proud of"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "de-a2-g6",
+   "title": "Subordinating conjunctions & verb-final order",
+   "level": "A2",
+   "expl_en": "Conjunctions like weil, dass, wenn, and obwohl introduce a subordinate clause where the conjugated verb moves to the very end: 'Ich bleibe zu Hause, weil ich krank bin.' This is different from the verb-second rule in main clauses.",
+   "expl_ar": "أدوات الربط الفرعية مثل weil (لأن) وdass (أنّ) وwenn (إذا/عندما) وobwohl (على الرغم من) تبدأ جملة فرعية تنتقل فيها صيغة الفعل المصرَّف إلى نهاية الجملة الفرعية تمامًا، كما في 'Ich bleibe zu Hause, weil ich krank bin' (سأبقى في المنزل لأنني مريض). هذا الترتيب يختلف جوهريًا عن قاعدة 'الفعل في الموضع الثاني' التي تحكم الجمل الرئيسية، وهو من أكثر الأخطاء شيوعًا لدى المتعلمين الذين ينسون نقل الفعل إلى النهاية.",
+   "examples": [
+    "Ich bleibe zu Hause, weil ich krank bin.",
+    "Ich glaube, dass er recht hat.",
+    "Wenn es regnet, bleibe ich zu Hause."
+   ],
+   "quiz": [
+    {
+     "q": "'Ich weiß, dass er ___ kommt.' (verb position)",
+     "options": [
+      "kommt",
+      "kommt heute",
+      "heute kommt",
+      "kommt er"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "In a clause starting with 'weil', the conjugated verb goes:",
+     "options": [
+      "right after weil",
+      "second",
+      "at the very end",
+      "it disappears"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Which word introduces a subordinate clause?",
+     "options": [
+      "und",
+      "aber",
+      "weil",
+      "oder"
+     ],
+     "answer": 2,
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

@@ -6,7 +6,7 @@
 
   const DEFAULT_STATE = {
     onboarded: false,
-    settings: { newPerDay: 10, tts: true },
+    settings: { newPerDay: 10, tts: true, reviewMode: "mixed" },
     cards: {},              // cardId -> { ease, interval, reps, due, lapses }
     newIntroduced: { date: "", counts: { de: 0, nl: 0, en: 0 } },
     lessonsDone: {},        // lessonId -> true

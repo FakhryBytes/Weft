@@ -1,0 +1,379 @@
+{
+ "lang": "nl",
+ "lessons": [
+  {
+   "id": "nl-g1",
+   "title": "zijn & hebben – the two anchor verbs",
+   "level": "A1",
+   "expl_en": "zijn (to be) and hebben (to have) are irregular and used constantly. Learn them by heart: ik ben/heb, jij bent/hebt, hij/zij is/heeft, wij zijn/hebben, jullie zijn/hebben, zij zijn/hebben.",
+   "expl_ar": "الفعلان zijn و hebben من أهم أفعال اللغة الهولندية وأكثرها استخدامًا، وهما -كما في الألمانية- شاذان تمامًا في تصريفهما. يُنصح بحفظ صيغهما الست عن ظهر قلب فورًا، لأنهما ضروريان لتكوين صيغة الماضي التام (Perfectum) لاحقًا، إضافة إلى استخدامهما اليومي المستمر في أبسط الجمل.",
+   "examples": [
+    "Ik ben moe, maar ik heb nog energie.",
+    "Wij zijn vrienden en hebben veel gemeen."
+   ],
+   "quiz": [
+    {
+     "q": "'Jij ___ erg aardig.' (zijn)",
+     "options": [
+      "ben",
+      "bent",
+      "is",
+      "zijn"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Wij ___ twee kinderen.' (hebben)",
+     "options": [
+      "heeft",
+      "heb",
+      "hebben",
+      "hebt"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Which verb is irregular in nearly every form?",
+     "options": [
+      "zijn",
+      "leren",
+      "doen",
+      "wonen"
+     ],
+     "answer": 0,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-g2",
+   "title": "Gender & articles: de vs het",
+   "level": "A1",
+   "expl_en": "Dutch nouns take either 'de' (common gender — most nouns) or 'het' (neuter — about a third, mostly diminutives and some fixed groups). Always learn a noun with its article, e.g. 'de tafel', 'het huis'.",
+   "expl_ar": "الأسماء الهولندية تنقسم إلى فئتين فقط من حيث الأداة: de للجنس الشائع (وهو الغالبية العظمى من الأسماء، ويشمل ما كان تاريخيًا مذكرًا ومؤنثًا معًا)، و het للجنس المحايد (حوالي ثلث الأسماء تقريبًا، ومعظم التصغيرات المنتهية بـ -je تأخذ het دائمًا). هذا التبسيط يجعل الهولندية أسهل قليلًا من الألمانية من هذه الناحية، لكن يبقى حفظ الأداة مع كل اسم أمرًا ضروريًا لأن التمييز بينهما غير منطقي في كثير من الأحيان.",
+   "examples": [
+    "de tafel (the table)",
+    "het huis (the house)",
+    "het meisje (the girl — diminutive-like neuter)"
+   ],
+   "quiz": [
+    {
+     "q": "Which article usually goes with diminutives (-je)?",
+     "options": [
+      "de",
+      "het",
+      "een",
+      "geen"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'___ boek' (the book, neuter)",
+     "options": [
+      "De",
+      "Het",
+      "Een",
+      "Deze"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Roughly what share of Dutch nouns are 'de' words?",
+     "options": [
+      "about 1/3",
+      "about 2/3",
+      "all of them",
+      "none"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-g3",
+   "title": "Present tense: the stem + endings",
+   "level": "A1",
+   "expl_en": "Find the stem by removing -en from the infinitive. ik uses the bare stem; jij/hij add -t (but drop it in jij-inversion questions); wij/jullie/zij use the full infinitive. E.g. werken → ik werk, jij werkt, wij werken.",
+   "expl_ar": "لتصريف الأفعال المنتظمة في المضارع، ابحث أولًا عن جذر الفعل بحذف -en من المصدر. صيغة 'أنا' (ik) تستخدم الجذر مجردًا بدون أي إضافة، بينما تضاف -t لصيغتي 'أنت' و'هو/هي'، وتُستخدم صيغة المصدر كاملة مع 'نحن' و'أنتم' و'هم'. لاحظ أيضًا أنه في أسئلة الانقلاب مع 'أنت' (jij)، تُحذف الـ -t من الفعل بشكل استثنائي.",
+   "examples": [
+    "ik werk, jij werkt, wij werken",
+    "ik leer, hij leert, zij leren"
+   ],
+   "quiz": [
+    {
+     "q": "'Hij ___ Nederlands.' (leren)",
+     "options": [
+      "leer",
+      "leert",
+      "leren",
+      "leerd"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Wij ___ hard.' (werken)",
+     "options": [
+      "werk",
+      "werkt",
+      "werken",
+      "werkte"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "The 'ik' form uses:",
+     "options": [
+      "the bare stem",
+      "stem + t",
+      "the infinitive",
+      "stem + en"
+     ],
+     "answer": 0,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-g4",
+   "title": "Word order: verb-second & inversion",
+   "level": "A2",
+   "expl_en": "Like German, Dutch keeps the conjugated verb as the second element. If a sentence opens with something other than the subject, subject and verb invert: 'Vandaag leer ik Nederlands' (Today I learn Dutch).",
+   "expl_ar": "مثل الألمانية تمامًا، يحتفظ ترتيب الجملة الهولندية بقاعدة صارمة: الفعل المصرَّف يجب أن يبقى في الموضع الثاني من الجملة الرئيسية. فإذا بدأت الجملة بكلمة أخرى غير الفاعل -مثل ظرف زمان كـ 'اليوم' أو 'غدًا'- فإن الفاعل والفعل يتبادلان مكانيهما (انقلاب) بحيث يبقى الفعل ثانيًا دائمًا. هذا النمط متكرر جدًا في الكلام اليومي، خاصة عند بدء الجملة بمعلومة زمنية أو مكانية.",
+   "examples": [
+    "Ik leer vandaag Nederlands.",
+    "Vandaag leer ik Nederlands.",
+    "Morgen ga ik naar Amsterdam."
+   ],
+   "quiz": [
+    {
+     "q": "'Morgen ___ ik naar Amsterdam.' (gaan)",
+     "options": [
+      "ga",
+      "gaan",
+      "gaat",
+      "ging"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "If a sentence starts with a time word, the subject:",
+     "options": [
+      "disappears",
+      "moves after the verb",
+      "doubles",
+      "stays before the verb"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Correct order: 'Vandaag ___' (I am learning Dutch)",
+     "options": [
+      "ik leer Nederlands",
+      "leer ik Nederlands",
+      "Nederlands ik leer",
+      "leer Nederlands ik"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-g5",
+   "title": "Plurals: -en or -s",
+   "level": "A1",
+   "expl_en": "Most Dutch nouns take -en in the plural; nouns ending in an unstressed -e, -el, -em, -en, -er, or a vowel + diminutive pattern often take -s instead, e.g. tafel → tafels, boek → boeken.",
+   "expl_ar": "معظم الأسماء الهولندية تأخذ النهاية -en في صيغة الجمع، وهي القاعدة الافتراضية الأكثر شيوعًا. لكن الأسماء المنتهية بمقطع غير منبور مثل -el أو -er أو -en أو -aar، أو المنتهية بحرف علة، غالبًا ما تفضل النهاية -s بدلاً من ذلك لتفادي صعوبة النطق. أما الكلمات المنتهية بحرف علة مثل auto فتحتاج إلى فاصلة عليا (apostrophe) قبل الـ s للحفاظ على وضوح النطق: auto's.",
+   "examples": [
+    "het boek → de boeken",
+    "de tafel → de tafels",
+    "de auto → de auto's"
+   ],
+   "quiz": [
+    {
+     "q": "Plural of 'de trein' is:",
+     "options": [
+      "de treins",
+      "de treinen",
+      "het treinen",
+      "de trein"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Which ending often signals an -s plural?",
+     "options": [
+      "-en",
+      "unstressed -el/-er",
+      "stressed -aar",
+      "none of these"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Plural of 'de auto' (needs apostrophe):",
+     "options": [
+      "de autos",
+      "de auto's",
+      "de autoen",
+      "de auton"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-g6",
+   "title": "Negation: niet vs geen",
+   "level": "A1",
+   "expl_en": "Use 'geen' to negate an indefinite noun (geen auto, geen tijd — where 'een' or no article would appear). Use 'niet' for verbs, adjectives, or definite nouns (de/het/dit/dat + noun).",
+   "expl_ar": "التمييز بين niet و geen يشبه تمامًا التمييز بين nicht و kein في الألمانية. استخدم geen لنفي اسم نكرة (أي اسم كان سيسبقه een أو لا أداة أصلاً)، واستخدم niet لنفي الأفعال والصفات والظروف، وكذلك الأسماء المعرَّفة بـ de/het أو أسماء الإشارة مثل dit/dat. القاعدة المختصرة: geen تنفي 'وجود شيء نكرة'، وniet تنفي كل ما عداه.",
+   "examples": [
+    "Ik heb geen tijd.",
+    "Ik begrijp het niet.",
+    "Dit is niet mijn boek."
+   ],
+   "quiz": [
+    {
+     "q": "'Ik heb ___ auto.' (no car)",
+     "options": [
+      "niet",
+      "geen",
+      "geeen",
+      "nieten"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Dat is ___ correct.' (not correct)",
+     "options": [
+      "geen",
+      "niet",
+      "geene",
+      "nieten"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'geen' is used to negate:",
+     "options": [
+      "verbs",
+      "adjectives",
+      "indefinite nouns",
+      "adverbs"
+     ],
+     "answer": 2,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-g7",
+   "title": "Modal verbs: kunnen, moeten, willen",
+   "level": "A2",
+   "expl_en": "Modal verbs (kunnen=can, moeten=must, willen=want to) push the main verb to the infinitive at the end of the clause: 'Ik kan vandaag niet komen.'",
+   "expl_ar": "الأفعال الشرطية (kunnen = يستطيع، moeten = يجب، willen = يريد) تدفع الفعل الرئيسي المرافق لها إلى صيغة المصدر في نهاية الجملة، تمامًا كما في الألمانية، بينما يبقى الفعل الشرطي نفسه مصرَّفًا في الموضع الثاني المعتاد. هذا التركيب -فعل مساعد في البداية وفعل رئيسي في النهاية- هو نمط جوهري في اللغتين الهولندية والألمانية معًا وسيظهر مرارًا.",
+   "examples": [
+    "Ik moet vandaag werken.",
+    "Kun je me helpen?",
+    "Wij willen Nederlands leren."
+   ],
+   "quiz": [
+    {
+     "q": "'Ik ___ vandaag niet komen.' (can)",
+     "options": [
+      "kan",
+      "kunt",
+      "kunnen",
+      "kan't"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "Where does the infinitive go with a modal verb?",
+     "options": [
+      "Right after the modal",
+      "At the end of the clause",
+      "At the start",
+      "It disappears"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Wij ___ Nederlands leren.' (want to)",
+     "options": [
+      "wil",
+      "wilt",
+      "willen",
+      "will"
+     ],
+     "answer": 2,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-g8",
+   "title": "Separable verbs",
+   "level": "A2",
+   "expl_en": "Many Dutch verbs have a separable prefix that detaches and moves to the end of the main clause: opstaan (to get up) → 'Ik sta om zeven uur op.' In the infinitive form the prefix stays attached.",
+   "expl_ar": "الأفعال المنفصلة (separable verbs) ظاهرة مميزة في الهولندية: تتكون من بادئة (مثل op في opstaan = ينهض) مع فعل أساسي، وعند التصريف في الجملة الرئيسية تنفصل البادئة عن الفعل وتنتقل إلى نهاية الجملة تمامًا. أما في صيغة المصدر أو عند استخدام فعل شرطي معها، فتبقى البادئة ملتصقة بالفعل في مكانها الطبيعي. هذا النمط قد يبدو غريبًا في البداية لكنه شديد الانتظام بمجرد أن تتعرف عليه.",
+   "examples": [
+    "Ik sta om zeven uur op. (opstaan)",
+    "Zij belt haar moeder op. (opbellen)",
+    "We gaan morgen weg. (weggaan)"
+   ],
+   "quiz": [
+    {
+     "q": "'opstaan' in 'Ik sta vroeg op' shows a:",
+     "options": [
+      "separable prefix moved to the end",
+      "spelling mistake",
+      "new verb",
+      "reflexive verb"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "In the infinitive, the prefix is:",
+     "options": [
+      "always removed",
+      "attached to the front",
+      "placed at the end",
+      "optional"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Hij ___ de tv ___.' (aanzetten – to turn on)",
+     "options": [
+      "zet ... aan",
+      "aanzet ...",
+      "zet aan ...",
+      "aan ... zet"
+     ],
+     "answer": 0,
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 // Weft service worker — cache-first, fully offline after first load.
 // Bump CACHE_VERSION any time you edit app files or data so the new
 // versions get picked up.
-const CACHE_VERSION = "weft-v1";
+const CACHE_VERSION = "weft-v2";
 
 const PRECACHE_URLS = [
   "./",
@@ -12,12 +12,18 @@ const PRECACHE_URLS = [
   "./js/srs.js",
   "./js/data.js",
   "./js/app.js",
-  "./data/vocab_de.json",
-  "./data/vocab_nl.json",
-  "./data/vocab_en.json",
-  "./data/grammar_de.json",
-  "./data/grammar_nl.json",
-  "./data/grammar_en.json",
+  "./data/vocab_de_a1.json",
+  "./data/vocab_de_a2.json",
+  "./data/vocab_nl_a1.json",
+  "./data/vocab_nl_a2.json",
+  "./data/vocab_en_c1.json",
+  "./data/vocab_en_c2.json",
+  "./data/grammar_de_a1.json",
+  "./data/grammar_de_a2.json",
+  "./data/grammar_nl_a1.json",
+  "./data/grammar_nl_a2.json",
+  "./data/grammar_en_c1.json",
+  "./data/grammar_en_c2.json",
   "./fonts/PlexSans-Regular.woff2",
   "./fonts/PlexSans-Medium.woff2",
   "./fonts/PlexSans-SemiBold.woff2",

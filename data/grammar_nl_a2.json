@@ -1,0 +1,287 @@
+{
+ "lang": "nl",
+ "lessons": [
+  {
+   "id": "nl-a2-g1",
+   "title": "Perfectum: the everyday past tense",
+   "level": "A2",
+   "expl_en": "Dutch mostly talks about the past in speech using the perfectum: hebben or zijn (conjugated) + a past participle at the end of the clause. Most verbs use hebben; verbs of motion or change of state (gaan, komen, worden) use zijn.",
+   "expl_ar": "في اللغة المحكية، يُستخدم زمن الماضي التام (perfectum) في أغلب الأحيان بدلاً من الماضي البسيط. يتكون من فعل مساعد مصرَّف (hebben أو zijn) بالإضافة إلى صيغة اسم المفعول (voltooid deelwoord) التي تنتقل إلى نهاية الجملة. القاعدة العامة: أفعال الحركة أو التغيّر في الحالة مثل gaan وkomen وworden تستخدم zijn، بينما تستخدم بقية الأفعال hebben.",
+   "examples": [
+    "Ik heb Nederlands geleerd.",
+    "Wij zijn naar Amsterdam gegaan.",
+    "Heb je het boek gelezen?"
+   ],
+   "quiz": [
+    {
+     "q": "'Ik ___ naar de bioscoop gegaan.' (movement verb)",
+     "options": [
+      "heb",
+      "ben",
+      "heeft",
+      "is"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Zij ___ koffie gedronken.' (non-movement verb)",
+     "options": [
+      "is",
+      "zijn",
+      "heeft",
+      "hebben"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Where does the past participle go in a perfectum sentence?",
+     "options": [
+      "Right after the subject",
+      "At the very end of the clause",
+      "Before the auxiliary",
+      "It doesn't matter"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-a2-g2",
+   "title": "Comparative & superlative adjectives",
+   "level": "A2",
+   "expl_en": "Most adjectives add -er for the comparative and 'het ___st' for the superlative: snel → sneller → het snelst. Some are irregular: goed → beter → het best; graag → liever → het liefst.",
+   "expl_ar": "لتكوين صيغة المقارنة تُضاف عادة النهاية -er إلى الصفة، بينما تُستخدم صيغة 'het ___st' للتفضيل المطلق. مثال: snel (سريع) تصبح sneller (أسرع) ثم het snelst (الأسرع). لكن بعض الصفات شاذة تمامًا مثل goed (جيد) التي تصبح beter (أفضل) ثم het best (الأفضل)، وgraag التي تصبح liever ثم het liefst، ويجب حفظ هذه الاستثناءات بشكل منفصل.",
+   "examples": [
+    "snel → sneller → het snelst",
+    "goed → beter → het best",
+    "groot → groter → het grootst"
+   ],
+   "quiz": [
+    {
+     "q": "Comparative of 'klein' (small) is:",
+     "options": [
+      "kleiner",
+      "kleinst",
+      "het kleine",
+      "kleins"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "'goed' → comparative:",
+     "options": [
+      "goeder",
+      "beter",
+      "het best",
+      "goedst"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Superlative form pattern is:",
+     "options": [
+      "'meer' + adjective",
+      "'het' + adjective + '-st'",
+      "adjective + '-st' alone",
+      "'de' + adjective"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-a2-g3",
+   "title": "Reflexive verbs",
+   "level": "A2",
+   "expl_en": "Reflexive verbs use a reflexive pronoun (me, je, zich, ons, je, zich) referring back to the subject: 'Ik verheug me' (I'm looking forward — literally 'I delight myself'). Some verbs are always reflexive; others shift meaning when reflexive.",
+   "expl_ar": "الأفعال الانعكاسية تحتاج إلى ضمير انعكاسي (me وje وzich وons وje وzich) يعود على الفاعل نفسه، مثل 'Ik verheug me' (أتطلع، وحرفيًا 'أُبهج نفسي'). بعض الأفعال انعكاسية دائمًا، بينما تتحول أفعال أخرى إلى صيغة انعكاسية فيتغيّر معناها قليلًا، لذا يُفضَّل حفظ الفعل الانعكاسي كوحدة كاملة مع ضميره المناسب.",
+   "examples": [
+    "Ik verheug me op de reis.",
+    "Hij interesseert zich voor kunst.",
+    "Wij herinneren ons de vakantie."
+   ],
+   "quiz": [
+    {
+     "q": "'Ik verheug ___ op het weekend.' (myself)",
+     "options": [
+      "mijn",
+      "me",
+      "ik",
+      "mij zelf"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Reflexive pronoun for 'wij' (we) is:",
+     "options": [
+      "zich",
+      "jullie",
+      "ons",
+      "je"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "'zich interesseren voor' means:",
+     "options": [
+      "to be tired of",
+      "to be interested in",
+      "to be afraid of",
+      "to be proud of"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-a2-g4",
+   "title": "Subordinating conjunctions & word order",
+   "level": "A2",
+   "expl_en": "Conjunctions like omdat, dat, als, and hoewel introduce a subordinate clause where the conjugated verb moves to the very end: 'Ik blijf thuis, omdat ik ziek ben.' This differs from the verb-second rule in main clauses.",
+   "expl_ar": "أدوات الربط الفرعية مثل omdat (لأن) وdat (أنّ) وals (إذا/عندما) وhoewel (على الرغم من) تبدأ جملة فرعية ينتقل فيها الفعل المصرَّف إلى نهاية الجملة، كما في 'Ik blijf thuis, omdat ik ziek ben' (سأبقى في المنزل لأنني مريض). هذا يختلف عن قاعدة 'الفعل في الموضع الثاني' التي تحكم الجمل الرئيسية، وهو خطأ شائع لدى من ينسى نقل الفعل إلى نهاية الجملة الفرعية.",
+   "examples": [
+    "Ik blijf thuis, omdat ik ziek ben.",
+    "Ik denk dat hij gelijk heeft.",
+    "Als het regent, blijf ik thuis."
+   ],
+   "quiz": [
+    {
+     "q": "'Ik weet dat hij ___ komt.' (verb position)",
+     "options": [
+      "komt",
+      "komt vandaag",
+      "vandaag komt",
+      "komt hij"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "In a clause starting with 'omdat', the conjugated verb goes:",
+     "options": [
+      "right after omdat",
+      "second",
+      "at the very end",
+      "it disappears"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "Which word introduces a subordinate clause?",
+     "options": [
+      "en",
+      "maar",
+      "omdat",
+      "of"
+     ],
+     "answer": 2,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-a2-g5",
+   "title": "Adjective endings with de- and het-words",
+   "level": "A2",
+   "expl_en": "Adjectives before a de-word almost always add -e (de grote stad). Before a het-word, adjectives add -e only when the noun is definite or plural (het grote huis needs 'grote' too — but 'een groot huis' with an indefinite het-word stays uninflected).",
+   "expl_ar": "الصفة التي تسبق اسمًا من نوع de تأخذ دائمًا تقريبًا النهاية -e، مثل de grote stad (المدينة الكبيرة). أما الصفة التي تسبق اسمًا من نوع het، فتأخذ -e فقط إذا كان الاسم معرَّفًا أو جمعًا (het grote huis)، بينما تبقى بلا نهاية إذا كان الاسم نكرة مفردة (een groot huis). هذا الفرق الدقيق من أكثر النقاط التي تحتاج تدريبًا متكررًا لتصبح تلقائية.",
+   "examples": [
+    "de grote stad (de-word: always -e)",
+    "het grote huis (definite het-word: -e)",
+    "een groot huis (indefinite het-word: no -e)"
+   ],
+   "quiz": [
+    {
+     "q": "'de ___ tafel' (klein)",
+     "options": [
+      "klein",
+      "kleine",
+      "kleins",
+      "kleiner"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'een ___ huis' (het-word, indefinite — no ending)",
+     "options": [
+      "groot",
+      "grote",
+      "groots",
+      "grootste"
+     ],
+     "answer": 0,
+     "note": ""
+    },
+    {
+     "q": "'het ___ huis' (het-word, definite — needs -e)",
+     "options": [
+      "groot",
+      "grote",
+      "groots",
+      "grootje"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "nl-a2-g6",
+   "title": "Modal verbs in context",
+   "level": "A2",
+   "expl_en": "Modal verbs (kunnen, moeten, willen, mogen) combine with an infinitive at the end of the clause, and their meaning shifts subtly by context: mogen often means 'to be allowed to', while moeten is a stronger 'have to'.",
+   "expl_ar": "الأفعال الشرطية (kunnen وmoeten وwillen وmogen) تُستخدم مع فعل في صيغة المصدر عند نهاية الجملة، ويختلف معناها بحسب السياق بشكل دقيق: mogen تعني غالبًا 'يُسمح له بـ'، بينما moeten أقوى وتعني 'يجب عليه أن'. التمييز بين هذه الأفعال الأربعة ضروري للتعبير عن درجات مختلفة من الإلزام والإذن في الهولندية.",
+   "examples": [
+    "Mag ik binnenkomen? (May I come in?)",
+    "Ik moet nu gaan. (I must go now.)",
+    "Wil je koffie? (Do you want coffee?)"
+   ],
+   "quiz": [
+    {
+     "q": "'___ ik het raam openen?' (asking permission)",
+     "options": [
+      "Moet",
+      "Mag",
+      "Wil",
+      "Kan"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Which modal expresses strong obligation?",
+     "options": [
+      "mogen",
+      "kunnen",
+      "moeten",
+      "willen"
+     ],
+     "answer": 2,
+     "note": ""
+    },
+    {
+     "q": "'mogen' most closely means:",
+     "options": [
+      "to be able to",
+      "to be allowed to",
+      "to want to",
+      "to have to"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

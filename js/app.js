@@ -203,7 +203,7 @@ function renderHome() {
       <div class="tile" onclick="go('#/grammar')">
         ${svg("book", 20)}
         <div class="t-title" style="margin-top:8px;">Grammar library</div>
-        <div class="t-sub">24 short lessons, DE·NL·EN</div>
+        <div class="t-sub">${totalLessonCount()} short lessons, DE·NL·EN</div>
       </div>
       <div class="tile" onclick="go('#/progress')">
         ${svg("chart", 20)}
@@ -217,13 +217,18 @@ function renderHome() {
 function langCard(lang, s) {
   const label = WeftData.LANG_LABEL[lang];
   const pct = Math.round(s.masteredPct * 100);
+  const levels = WeftData.levelsFor(lang).join("–");
   return `
     <div class="lang-card">
-      <div class="code" style="color:${ACCENT[lang]}">${lang.toUpperCase()}</div>
+      <div class="code" style="color:${ACCENT[lang]}">${lang.toUpperCase()} · ${levels}</div>
       <div class="lvl">${label}</div>
       <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${ACCENT[lang]}"></div></div>
       <div class="due">${s.mastered}/${s.total} mastered · ${s.due} due</div>
     </div>`;
+}
+
+function totalLessonCount() {
+  return WeftData.LANGS.reduce((sum, l) => sum + WeftData.grammarLessons(l).length, 0);
 }
 
 function weekCalendar() {
@@ -286,8 +291,13 @@ function buildSessionQueue() {
   return order;
 }
 
+function freshSession() {
+  return { queue: buildSessionQueue(), index: 0, revealed: false, correct: 0, total: 0,
+           curMode: null, typedValue: null, typedCorrect: null };
+}
+
 function startDrill() {
-  STATE.session = { queue: buildSessionQueue(), index: 0, revealed: false, correct: 0, total: 0 };
+  STATE.session = freshSession();
   persist();
   go("#/drill");
 }
@@ -297,7 +307,48 @@ function findItem(lang, id) {
 }
 
 function ensureSession() {
-  if (!STATE.session) STATE.session = { queue: buildSessionQueue(), index: 0, revealed: false, correct: 0, total: 0 };
+  if (!STATE.session) STATE.session = freshSession();
+}
+
+/* --- typing/production mode helpers --- */
+function getCardMode(s) {
+  if (s.curMode) return s.curMode;
+  const pref = STATE.settings.reviewMode || "mixed";
+  s.curMode = pref === "mixed" ? (Math.random() < 0.5 ? "type" : "reveal") : pref;
+  return s.curMode;
+}
+
+function normalizeAnswer(str) {
+  return String(str)
+    .replace(/ß/g, "ss")
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase().trim()
+    .replace(/[.,!?;:'"()]/g, "")
+    .replace(/\s+/g, " ");
+}
+
+function isTypedCorrect(typed, term) {
+  const cleanTerm = String(term).replace(/\([^)]*\)/g, "");
+  const alts = cleanTerm.split("/").map((s) => normalizeAnswer(s)).filter(Boolean);
+  const target = normalizeAnswer(typed);
+  return target.length > 0 && alts.includes(target);
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function checkTyped() {
+  const s = STATE.session;
+  const entry = s.queue[s.index];
+  const item = findItem(entry.lang, entry.id);
+  const inputEl = document.getElementById("typedInput");
+  const typed = inputEl ? inputEl.value : "";
+  s.typedValue = typed;
+  s.typedCorrect = isTypedCorrect(typed, item.term);
+  s.revealed = true;
+  persist();
+  renderDrill();
 }
 
 function renderDrill() {
@@ -320,6 +371,14 @@ function renderDrill() {
   const entry = s.queue[s.index];
   const item = findItem(entry.lang, entry.id);
   const pct = Math.round((s.index / s.queue.length) * 100);
+  const mode = getCardMode(s);
+  const isTypePrompt = mode === "type" && !s.revealed;
+
+  const frontText = isTypePrompt ? item.en : item.term;
+  const typedFeedback = (mode === "type" && s.typedValue !== null) ? `
+    <div class="typed-feedback ${s.typedCorrect ? "correct" : "wrong"}">
+      ${s.typedCorrect ? "Correct!" : `Not quite — you typed “${escapeHtml(s.typedValue) || "(nothing)"}”`}
+    </div>` : "";
 
   renderView(`
     <div class="session-top">
@@ -329,12 +388,13 @@ function renderDrill() {
     </div>
 
     <div class="drill-card">
-      <div class="lang-badge"><span class="dot" style="background:${ACCENT[entry.lang]}"></span>${WeftData.LANG_LABEL[entry.lang]}</div>
-      <div class="drill-term">${item.term}</div>
-      <div class="drill-cat">${item.cat}</div>
-      <button class="speak-btn" onclick="speak('${jsEsc(item.ex || item.term)}','${entry.lang}')">${svg("speak", 15)} Listen</button>
+      <div class="lang-badge"><span class="dot" style="background:${ACCENT[entry.lang]}"></span>${WeftData.LANG_LABEL[entry.lang]} · ${item.lvl || ""}</div>
+      <div class="drill-term">${frontText}</div>
+      <div class="drill-cat">${isTypePrompt ? "type the " + WeftData.LANG_LABEL[entry.lang] + " term" : item.cat}</div>
+      ${isTypePrompt ? "" : `<button class="speak-btn" onclick="speak('${jsEsc(item.ex || item.term)}','${entry.lang}')">${svg("speak", 15)} Listen</button>`}
 
       ${s.revealed ? `
+        ${typedFeedback}
         <div class="drill-answer">
           <div class="en">${item.en}</div>
           <div class="ar ar" lang="ar">${item.ar}</div>
@@ -348,6 +408,14 @@ function renderDrill() {
           <button class="grade-btn grade-good" onclick="gradeCard(2)">Good<span class="k">days</span></button>
           <button class="grade-btn grade-easy" onclick="gradeCard(3)">Easy<span class="k">weeks</span></button>
         </div>
+      ` : isTypePrompt ? `
+        <div class="ex-note ar" lang="ar" style="margin-top:10px;">${item.ar}</div>
+        <div class="drill-spacer"></div>
+        <div class="reveal-wrap">
+          <input type="text" id="typedInput" class="type-input" autocomplete="off" autocapitalize="off" spellcheck="false"
+                 placeholder="Type it in ${WeftData.LANG_LABEL[entry.lang]}…" onkeydown="if(event.key==='Enter'){checkTyped()}">
+          <button class="btn btn-primary" style="margin-top:10px;" onclick="checkTyped()">Check</button>
+        </div>
       ` : `
         <div class="drill-spacer"></div>
         <div class="reveal-wrap">
@@ -356,6 +424,7 @@ function renderDrill() {
       `}
     </div>
   `);
+  if (isTypePrompt) { const el = document.getElementById("typedInput"); if (el) el.focus(); }
 }
 
 function jsEsc(s) { return String(s).replace(/'/g, "\\'"); }
@@ -384,6 +453,9 @@ function gradeCard(grade) {
 
   s.index++;
   s.revealed = false;
+  s.curMode = null;
+  s.typedValue = null;
+  s.typedCorrect = null;
   persist();
   renderDrill();
 }
@@ -408,17 +480,26 @@ function speak(text, lang) {
 function renderGrammarHome() {
   const sections = WeftData.LANGS.map((l) => {
     const lessons = WeftData.grammarLessons(l);
-    const rows = lessons.map((les, i) => {
-      const done = !!STATE.lessonsDone[les.id];
-      return `<div class="lesson-item ${done ? "done" : ""}" onclick="go('#/grammar/${l}/${les.id}')">
-        <div class="l-num">${String(i + 1).padStart(2, "0")}</div>
-        <div class="l-title">${les.title}</div>
-        <div class="l-level">${les.level}</div>
-      </div>`;
+    const byLevel = {};
+    lessons.forEach((les) => { (byLevel[les.level] = byLevel[les.level] || []).push(les); });
+
+    const levelBlocks = Object.keys(byLevel).map((lvl) => {
+      const group = byLevel[lvl];
+      const doneCount = group.filter((les) => STATE.lessonsDone[les.id]).length;
+      const rows = group.map((les, i) => {
+        const done = !!STATE.lessonsDone[les.id];
+        return `<div class="lesson-item ${done ? "done" : ""}" onclick="go('#/grammar/${l}/${les.id}')">
+          <div class="l-num">${String(i + 1).padStart(2, "0")}</div>
+          <div class="l-title">${les.title}</div>
+          <div class="l-level">${les.level}</div>
+        </div>`;
+      }).join("");
+      return `<div style="font-family:var(--font-mono); font-size:11px; color:var(--on-ink-dim); margin:10px 0 6px;">${lvl} · ${doneCount}/${group.length} reviewed</div>${rows}`;
     }).join("");
+
     return `
       <div class="section-title" style="color:${ACCENT[l]}; opacity:1;">${WeftData.LANG_LABEL[l]}</div>
-      ${rows}
+      ${levelBlocks}
     `;
   }).join("");
   renderView(sections);
@@ -546,6 +627,14 @@ function renderSettings() {
         <span class="track"></span>
       </label>
     </div>
+    <div class="setting-row">
+      <div><div class="s-label">Review style</div><div class="s-sub">Recognition = reveal; Production = type the answer</div></div>
+      <select class="chip" onchange="setReviewMode(this.value)">
+        <option value="reveal" ${STATE.settings.reviewMode === "reveal" ? "selected" : ""}>Recognition</option>
+        <option value="type" ${STATE.settings.reviewMode === "type" ? "selected" : ""}>Production</option>
+        <option value="mixed" ${STATE.settings.reviewMode === "mixed" ? "selected" : ""}>Mixed</option>
+      </select>
+    </div>
 
     <div class="section-title">Data</div>
     ${installRow}
@@ -566,6 +655,7 @@ function renderSettings() {
 
 function setNewPerDay(v) { STATE.settings.newPerDay = Number(v); persist(); toast("Saved"); }
 function setTTS(v) { STATE.settings.tts = v; persist(); }
+function setReviewMode(v) { STATE.settings.reviewMode = v; persist(); toast("Saved"); }
 
 function installApp() {
   if (!deferredInstallPrompt) return;

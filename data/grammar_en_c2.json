@@ -1,0 +1,287 @@
+{
+ "lang": "en",
+ "lessons": [
+  {
+   "id": "en-c2-g1",
+   "title": "The formal subjunctive & inverted conditionals",
+   "level": "C2",
+   "expl_en": "At the highest register, English drops 'if' and inverts subject and auxiliary instead: 'Were I to accept...' (= if I were to accept), 'Had I known...' (= if I had known). This is common in formal writing, legal text, and elevated speech, and marks a deliberate, polished register.",
+   "expl_ar": "في أعلى مستويات السجل اللغوي، يمكن للإنجليزية حذف أداة الشرط if واستبدالها بانقلاب ترتيب الفاعل والفعل المساعد، كما في 'Were I to accept' بدلاً من 'If I were to accept'، أو 'Had I known' بدلاً من 'If I had known'. هذا النمط شائع في الكتابة الرسمية والنصوص القانونية والخطاب الأدبي الرفيع، ويمنح الأسلوب طابعًا متقنًا ومتعمدًا يميّز الكتّاب والمتحدثين المتمكنين جدًا من اللغة.",
+   "examples": [
+    "Were I in your position, I'd decline.",
+    "Had she arrived earlier, she would have seen it.",
+    "Should you have questions, please reach out."
+   ],
+   "quiz": [
+    {
+     "q": "Formal inversion of 'If I had known':",
+     "options": [
+      "I had known",
+      "Had I known",
+      "I would have known",
+      "Known had I"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "This inverted structure is most typical of:",
+     "options": [
+      "texting",
+      "formal/legal writing",
+      "children's books",
+      "casual chat"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'Should you need help' is an inverted form of:",
+     "options": [
+      "If you need help",
+      "You should need help",
+      "You need help, should",
+      "Help you should need"
+     ],
+     "answer": 0,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-c2-g2",
+   "title": "Nominalization & academic register control",
+   "level": "C2",
+   "expl_en": "Academic and formal English often turns verbs into nouns (nominalization) for a more impersonal, weighty tone: 'The committee will decide' becomes 'A decision will be made by the committee.' Overusing this in casual speech sounds stiff, but selectively deploying it is a mark of register control.",
+   "expl_ar": "تميل الإنجليزية الأكاديمية والرسمية إلى تحويل الأفعال إلى أسماء (nominalization) لإضفاء طابع أكثر رسمية وحيادية، مثل تحويل 'The committee will decide' إلى 'A decision will be made by the committee'. الإفراط في هذا الأسلوب في الحديث العادي يجعله متصلبًا وغير طبيعي، لكن استخدامه بشكل انتقائي ومدروس علامة على تحكم دقيق في مستوى اللغة (register) حسب السياق.",
+   "examples": [
+    "The team will implement the plan. → Implementation of the plan will proceed.",
+    "We analyzed the data. → An analysis of the data was conducted.",
+    "She decided quickly. → Her decision was swift."
+   ],
+   "quiz": [
+    {
+     "q": "Nominalized version of 'We will investigate this':",
+     "options": [
+      "This will be investigated by us",
+      "An investigation into this will be conducted",
+      "We investigate this always",
+      "This investigates us"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Overusing nominalization in casual speech tends to sound:",
+     "options": [
+      "friendly",
+      "stiff and impersonal",
+      "childish",
+      "aggressive"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Nominalization is most associated with:",
+     "options": [
+      "text messages",
+      "academic/legal writing",
+      "song lyrics",
+      "slang"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-c2-g3",
+   "title": "Discourse markers for sophisticated argument",
+   "level": "C2",
+   "expl_en": "Markers like 'insofar as', 'by the same token', and 'that said' let you qualify, extend, or pivot an argument with precision that 'but' and 'so' can't capture. Native-like C2 writing uses these sparingly but exactly, matching the marker to the precise logical relationship intended.",
+   "expl_ar": "تتيح أدوات الربط الراقية مثل insofar as وby the same token وthat said التعبير عن علاقات منطقية دقيقة بين الأفكار (تقييد، امتداد، تحوّل) بدقة لا توفرها كلمات بسيطة مثل but أو so. الكتابة التي تقترب من مستوى C2 الأصيل تستخدم هذه الأدوات باعتدال لكن بدقة متناهية، بحيث تُختار الأداة المناسبة تمامًا للعلاقة المنطقية المقصودة، لا كزخرفة لغوية فارغة.",
+   "examples": [
+    "The theory holds, insofar as the initial conditions are met.",
+    "He's strict; by the same token, he's fair.",
+    "The report is thorough. That said, it lacks a clear recommendation."
+   ],
+   "quiz": [
+    {
+     "q": "'Insofar as' is best used to:",
+     "options": [
+      "end a conversation",
+      "qualify the scope of a claim",
+      "greet someone",
+      "express surprise"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'By the same token' signals:",
+     "options": [
+      "a contradiction",
+      "reasoning that extends by the same logic",
+      "a question",
+      "an apology"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Overusing sophisticated discourse markers can risk sounding:",
+     "options": [
+      "too casual",
+      "ornamental rather than precise",
+      "childish",
+      "rude"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-c2-g4",
+   "title": "Litotes: understatement as native instinct",
+   "level": "C2",
+   "expl_en": "Native English, especially in a British-influenced register, often praises or criticizes through understatement: 'not bad' can mean genuinely excellent; 'not unlike' means quite similar; 'no small feat' means a big achievement. Recognizing and using litotes is a hallmark of near-native ear for tone.",
+   "expl_ar": "تميل الإنجليزية الأصيلة، خصوصًا في سجلها البريطاني التأثير، إلى المدح أو النقد عبر أسلوب التلطيف بنفي الضد (litotes): فعبارة 'not bad' قد تعني في الواقع 'ممتاز جدًا'، وnot unlike تعني 'مشابه إلى حد كبير'، وno small feat تعني 'إنجاز كبير'. القدرة على فهم هذا الأسلوب واستخدامه بشكل طبيعي من أوضح علامات الأذن اللغوية شبه الأصيلة، لأنه غير موجود بنفس الطريقة في العربية.",
+   "examples": [
+    "'Not bad at all' (= actually very good)",
+    "'No small feat' (= a big achievement)",
+    "'Not unlike his father' (= quite similar to his father)"
+   ],
+   "quiz": [
+    {
+     "q": "'That's not bad' in native usage often means:",
+     "options": [
+      "It's mediocre",
+      "It's genuinely good, said modestly",
+      "It's terrible",
+      "It's confusing"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "'No small feat' means:",
+     "options": [
+      "a tiny accomplishment",
+      "a considerable achievement",
+      "a failure",
+      "an easy task"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Litotes works by:",
+     "options": [
+      "exaggerating a claim",
+      "negating the opposite of what you mean",
+      "asking a question",
+      "using slang"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-c2-g5",
+   "title": "Punctuation as a rhetorical tool",
+   "level": "C2",
+   "expl_en": "At an advanced level, punctuation shapes rhythm and emphasis, not just grammar. An em dash — like this — inserts a sharp aside; a semicolon joins two closely related independent thoughts with more weight than a period but more connection than 'and'. Choosing between them is a stylistic decision.",
+   "expl_ar": "في المستويات المتقدمة، لا تخدم علامات الترقيم القواعد فقط بل تشكّل إيقاع الجملة وتوكيدها. الشرطة الطويلة (em dash) - كما هنا - تُدخل فكرة معترضة بشكل حاد ولافت، بينما تربط الفاصلة المنقوطة بين فكرتين مستقلتين مترابطتين بوزن أثقل من النقطة لكن بترابط أقوى من استخدام 'and'. الاختيار بين هذه العلامات قرار أسلوبي واعٍ لدى الكاتب المتمكن.",
+   "examples": [
+    "The plan — ambitious as it was — collapsed within months.",
+    "The market is volatile; investors remain cautious.",
+    "She smiled, said nothing, and left."
+   ],
+   "quiz": [
+    {
+     "q": "An em dash is typically used to:",
+     "options": [
+      "end a formal letter",
+      "insert a sharp interrupting thought",
+      "replace all commas",
+      "indicate a question"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "A semicolon connects:",
+     "options": [
+      "a list of three or more items",
+      "two closely related independent clauses",
+      "a single word to a sentence",
+      "a quotation only"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Punctuation at an advanced level primarily controls:",
+     "options": [
+      "spelling",
+      "rhythm and emphasis",
+      "vocabulary size",
+      "verb tense"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "en-c2-g6",
+   "title": "Calibrating idiom density",
+   "level": "C2",
+   "expl_en": "Ironically, one mark of true C2 mastery is knowing when *not* to use an idiom. Packing speech with idioms can sound try-hard or mismatched to a formal register; native speakers often default to plain, precise language in professional settings and save vivid idioms for informal or rhetorical moments.",
+   "expl_ar": "من المفارقات أن إحدى علامات الإتقان الحقيقي عند مستوى C2 هي معرفة متى لا يجب استخدام التعبير الاصطلاحي (idiom). حشو الكلام بالتعبيرات الاصطلاحية قد يبدو متكلفًا أو غير متناسب مع السجل الرسمي؛ فالمتحدثون الأصليون غالبًا ما يفضّلون لغة بسيطة ودقيقة في السياقات المهنية، ويدّخرون التعبيرات الاصطلاحية الحيّة للحظات غير الرسمية أو الخطابية المتعمدة.",
+   "examples": [
+    "Formal report: 'Revenue declined significantly.' (plain, precise)",
+    "Casual chat: 'Revenue took a nosedive.' (idiomatic, vivid)",
+    "Overdone: a formal email packed with five idioms in one paragraph (mismatched register)"
+   ],
+   "quiz": [
+    {
+     "q": "Using many idioms in a formal report typically sounds:",
+     "options": [
+      "impressively fluent",
+      "try-hard and mismatched",
+      "exactly right",
+      "invisible"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "True C2 mastery includes knowing:",
+     "options": [
+      "as many idioms as possible",
+      "when not to use an idiom",
+      "only formal vocabulary",
+      "how to avoid all figurative language"
+     ],
+     "answer": 1,
+     "note": ""
+    },
+    {
+     "q": "Native speakers in professional settings often prefer:",
+     "options": [
+      "maximum idiom density",
+      "plain, precise language",
+      "slang exclusively",
+      "only passive voice"
+     ],
+     "answer": 1,
+     "note": ""
+    }
+   ]
+  }
+ ]
+}
